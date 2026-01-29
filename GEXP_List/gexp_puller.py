@@ -16,7 +16,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 def _p(filename: str) -> str:
     return os.path.join(BASE_DIR, filename)
 
-API_KEY = os.getenv("HYPIXEL_API_KEY", "").strip() or "bcde7d6c-cc0a-4c60-b2d3-34f2f784bc56"
+API_KEY = os.getenv("HYPIXEL_API_KEY", "").strip() or "API-KEY"
 BASE_URL = "https://api.hypixel.net/v2"
 MOJANG_API = "https://sessionserver.mojang.com/session/minecraft/profile"
 
@@ -2352,3 +2352,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
