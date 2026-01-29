@@ -1,0 +1,4030 @@
+{
+  "eaeac5e8f7a6413caaa37b1f02a817a2": {
+    "req": {
+      "ap": 12875,
+      "bw_wins": 18146,
+      "bw_fkdr": 11.996615464722728,
+      "bb_score": 10645,
+      "duels_wins": 14944,
+      "duels_wlr": 1.974630021141649,
+      "sw_wins": 1067,
+      "sw_kdr": 1.3985095812633073,
+      "tnt_wins": 101,
+      "uhc_score": 22,
+      "fetched_at": 1769604573
+    },
+    "sb": {
+      "level": 44,
+      "fetched_at": 1769604573
+    }
+  },
+  "194016af5611447ea7ca75095d091cef": {
+    "req": {
+      "ap": 16545,
+      "bw_wins": 16738,
+      "bw_fkdr": 17.473150210343974,
+      "bb_score": 11000,
+      "duels_wins": 13073,
+      "duels_wlr": 3.358941418293936,
+      "sw_wins": 4211,
+      "sw_kdr": 2.360685774113336,
+      "tnt_wins": 324,
+      "uhc_score": 6,
+      "fetched_at": 1769604575
+    },
+    "sb": {
+      "level": 107,
+      "fetched_at": 1769604575
+    }
+  },
+  "d99951fee6d04cd99ce78afe6f6a34f0": {
+    "req": {
+      "ap": 7695,
+      "bw_wins": 9560,
+      "bw_fkdr": 5.2614590058102,
+      "bb_score": 12765,
+      "duels_wins": 2871,
+      "duels_wlr": 2.165158371040724,
+      "sw_wins": 229,
+      "sw_kdr": 0.9891518737672583,
+      "tnt_wins": 7,
+      "uhc_score": 0,
+      "fetched_at": 1769604576
+    },
+    "sb": {
+      "level": 13,
+      "fetched_at": 1769604576
+    }
+  },
+  "d29932cf0d7b4df0a3a132f1f46eff3f": {
+    "req": {
+      "ap": 6850,
+      "bw_wins": 3877,
+      "bw_fkdr": 10.982105263157894,
+      "bb_score": 730,
+      "duels_wins": 3560,
+      "duels_wlr": 2.482566248256625,
+      "sw_wins": 359,
+      "sw_kdr": 1.387012987012987,
+      "tnt_wins": 48,
+      "uhc_score": 2,
+      "fetched_at": 1769604574
+    },
+    "sb": {
+      "level": 62,
+      "fetched_at": 1769604574
+    }
+  },
+  "8e34c9eaf1da499e93832f5d6b6140b1": {
+    "req": {
+      "ap": 8245,
+      "bw_wins": 6907,
+      "bw_fkdr": 10.181904161412358,
+      "bb_score": 2810,
+      "duels_wins": 1279,
+      "duels_wlr": 3.996875,
+      "sw_wins": 941,
+      "sw_kdr": 2.1180020113979214,
+      "tnt_wins": 6,
+      "uhc_score": 0,
+      "fetched_at": 1769604581
+    },
+    "sb": {
+      "level": 402,
+      "fetched_at": 1769604581
+    }
+  },
+  "c5bbf656a6e2429e94ab406248cd8112": {
+    "req": {
+      "ap": 5200,
+      "bw_wins": 9396,
+      "bw_fkdr": 14.934125269978402,
+      "bb_score": 595,
+      "duels_wins": 2740,
+      "duels_wlr": 2.6601941747572817,
+      "sw_wins": 114,
+      "sw_kdr": 1.1573398215733983,
+      "tnt_wins": 5,
+      "uhc_score": 0,
+      "fetched_at": 1766652569
+    },
+    "sb": {
+      "level": 41,
+      "fetched_at": 1766652569
+    }
+  },
+  "48b50d1cd6b047519b2c9701373faffb": {
+    "req": {
+      "ap": 10120,
+      "bw_wins": 9955,
+      "bw_fkdr": 13.41693963500234,
+      "bb_score": 2135,
+      "duels_wins": 1422,
+      "duels_wlr": 5.469230769230769,
+      "sw_wins": 1192,
+      "sw_kdr": 2.2466161342717923,
+      "tnt_wins": 8,
+      "uhc_score": 13,
+      "fetched_at": 1769604582
+    },
+    "sb": {
+      "level": 183,
+      "fetched_at": 1769604582
+    }
+  },
+  "db8061e7718147449171bee78a72937e": {
+    "req": {
+      "ap": 4640,
+      "bw_wins": 6275,
+      "bw_fkdr": 9.30215013202565,
+      "bb_score": 1390,
+      "duels_wins": 432,
+      "duels_wlr": 1.2134831460674158,
+      "sw_wins": 164,
+      "sw_kdr": 1.1600576784426821,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604593
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604593
+    }
+  },
+  "9c37447979574e44a08f8c494e1560da": {
+    "req": {
+      "ap": 6475,
+      "bw_wins": 397,
+      "bw_fkdr": 16.594202898550726,
+      "bb_score": 80,
+      "duels_wins": 415,
+      "duels_wlr": 5.1875,
+      "sw_wins": 134,
+      "sw_kdr": 1.9622641509433962,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604579
+    },
+    "sb": {
+      "level": 419,
+      "fetched_at": 1769604579
+    }
+  },
+  "b5b27708f7c84f539d68226c98dd2da5": {
+    "req": {
+      "ap": 7485,
+      "bw_wins": 12617,
+      "bw_fkdr": 5.700393224440411,
+      "bb_score": 58105,
+      "duels_wins": 8561,
+      "duels_wlr": 1.8195536663124336,
+      "sw_wins": 213,
+      "sw_kdr": 1.2491000719942404,
+      "tnt_wins": 5,
+      "uhc_score": 0,
+      "fetched_at": 1769604582
+    },
+    "sb": {
+      "level": 23,
+      "fetched_at": 1769604583
+    }
+  },
+  "6836c7549eb44d3ab1b04e2dca7a2a9a": {
+    "req": {
+      "ap": 21875,
+      "bw_wins": 13188,
+      "bw_fkdr": 5.0232176360225145,
+      "bb_score": 30160,
+      "duels_wins": 22829,
+      "duels_wlr": 2.8744648703097457,
+      "sw_wins": 7253,
+      "sw_kdr": 2.2013184384005053,
+      "tnt_wins": 891,
+      "uhc_score": 84,
+      "fetched_at": 1769604578
+    },
+    "sb": {
+      "level": 101,
+      "fetched_at": 1769604578
+    }
+  },
+  "2f50d33ae54a4ca6b47ec93d5150592b": {
+    "req": {
+      "ap": 6845,
+      "bw_wins": 39875,
+      "bw_fkdr": 16.19733039768818,
+      "bb_score": 27520,
+      "duels_wins": 20731,
+      "duels_wlr": 4.491117850953207,
+      "sw_wins": 1183,
+      "sw_kdr": 1.4828708946772367,
+      "tnt_wins": 11,
+      "uhc_score": 0,
+      "fetched_at": 1769604577
+    },
+    "sb": {
+      "level": 14,
+      "fetched_at": 1769604577
+    }
+  },
+  "01fba3de8e224e0491d7981059abd249": {
+    "req": {
+      "ap": 5995,
+      "bw_wins": 15456,
+      "bw_fkdr": 7.521587886228771,
+      "bb_score": 2070,
+      "duels_wins": 2761,
+      "duels_wlr": 1.3178997613365155,
+      "sw_wins": 443,
+      "sw_kdr": 0.8234634365186182,
+      "tnt_wins": 6,
+      "uhc_score": 28,
+      "fetched_at": 1766780006
+    },
+    "sb": {
+      "level": 2,
+      "fetched_at": 1766780006
+    }
+  },
+  "0e45fdca740347afb8c7bdb1019c12b0": {
+    "req": {
+      "ap": 120,
+      "bw_wins": 0,
+      "bw_fkdr": 0.0,
+      "bb_score": 0,
+      "duels_wins": 2,
+      "duels_wlr": 0.5,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604583
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604583
+    }
+  },
+  "34ff535d8ea446bc92ccce97c0dbdf2d": {
+    "req": {
+      "ap": 535,
+      "bw_wins": 18,
+      "bw_fkdr": 19.666666666666668,
+      "bb_score": 30,
+      "duels_wins": 3,
+      "duels_wlr": 0.21428571428571427,
+      "sw_wins": 4,
+      "sw_kdr": 1.105263157894737,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604584
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604584
+    }
+  },
+  "cc07d2e8594b4fc1a90fb215a2b15c55": {
+    "req": {
+      "ap": 10585,
+      "bw_wins": 16079,
+      "bw_fkdr": 8.420811892510006,
+      "bb_score": 9590,
+      "duels_wins": 8536,
+      "duels_wlr": 1.6321223709369024,
+      "sw_wins": 545,
+      "sw_kdr": 1.0209302325581395,
+      "tnt_wins": 72,
+      "uhc_score": 1,
+      "fetched_at": 1769604591
+    },
+    "sb": {
+      "level": 34,
+      "fetched_at": 1769604591
+    }
+  },
+  "963e2c33f2254e9db5f544051ef3d412": {
+    "req": {
+      "ap": 5555,
+      "bw_wins": 17822,
+      "bw_fkdr": 15.271356783919598,
+      "bb_score": 650,
+      "duels_wins": 6760,
+      "duels_wlr": 1.9531927188673794,
+      "sw_wins": 487,
+      "sw_kdr": 1.0714285714285714,
+      "tnt_wins": 65,
+      "uhc_score": 0,
+      "fetched_at": 1769604583
+    },
+    "sb": {
+      "level": 21,
+      "fetched_at": 1769604584
+    }
+  },
+  "d8b120bfb7e8454590718849eef8fc42": {
+    "req": {
+      "ap": 8220,
+      "bw_wins": 2914,
+      "bw_fkdr": 7.075259515570934,
+      "bb_score": 1020,
+      "duels_wins": 40,
+      "duels_wlr": 0.6451612903225806,
+      "sw_wins": 10,
+      "sw_kdr": 0.9306930693069307,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1769604596
+    },
+    "sb": {
+      "level": 448,
+      "fetched_at": 1769604596
+    }
+  },
+  "29fed3a9dc9f4344b06752d01ba0c2ab": {
+    "req": {
+      "ap": 5300,
+      "bw_wins": 8348,
+      "bw_fkdr": 6.8891029758081785,
+      "bb_score": 910,
+      "duels_wins": 1940,
+      "duels_wlr": 1.3652357494722027,
+      "sw_wins": 676,
+      "sw_kdr": 1.0333017975402081,
+      "tnt_wins": 20,
+      "uhc_score": 0,
+      "fetched_at": 1769604592
+    },
+    "sb": {
+      "level": 7,
+      "fetched_at": 1769604592
+    }
+  },
+  "b23d9dabc16741079518bb8c0dd190b8": {
+    "req": {
+      "ap": 5460,
+      "bw_wins": 30080,
+      "bw_fkdr": 17.458075904677848,
+      "bb_score": 3705,
+      "duels_wins": 2323,
+      "duels_wlr": 1.349012775842044,
+      "sw_wins": 66,
+      "sw_kdr": 0.9856850715746421,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604586
+    },
+    "sb": {
+      "level": 238,
+      "fetched_at": 1769604586
+    }
+  },
+  "f9eaee020e114e96935d92e850959146": {
+    "req": {
+      "ap": 10220,
+      "bw_wins": 11316,
+      "bw_fkdr": 7.659871244635193,
+      "bb_score": 1180,
+      "duels_wins": 2863,
+      "duels_wlr": 2.77422480620155,
+      "sw_wins": 2473,
+      "sw_kdr": 1.6942797751943952,
+      "tnt_wins": 35,
+      "uhc_score": 10,
+      "fetched_at": 1769604589
+    },
+    "sb": {
+      "level": 178,
+      "fetched_at": 1769604589
+    }
+  },
+  "af1f84979ca7404eb7e9f76e3385b601": {
+    "req": {
+      "ap": 7970,
+      "bw_wins": 7214,
+      "bw_fkdr": 9.022375690607735,
+      "bb_score": 740,
+      "duels_wins": 2394,
+      "duels_wlr": 2.340175953079179,
+      "sw_wins": 616,
+      "sw_kdr": 3.013793103448276,
+      "tnt_wins": 6,
+      "uhc_score": 0,
+      "fetched_at": 1769604588
+    },
+    "sb": {
+      "level": 185,
+      "fetched_at": 1769604589
+    }
+  },
+  "a981f3a4737046a89b34bec70799317b": {
+    "req": {
+      "ap": 6820,
+      "bw_wins": 4790,
+      "bw_fkdr": 4.532428355957768,
+      "bb_score": 75,
+      "duels_wins": 1953,
+      "duels_wlr": 1.0273540241977905,
+      "sw_wins": 77,
+      "sw_kdr": 0.7117852975495916,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1769604590
+    },
+    "sb": {
+      "level": 515,
+      "fetched_at": 1769604590
+    }
+  },
+  "6def3350159a40f6a6c2e83d284156d3": {
+    "req": {
+      "ap": 15830,
+      "bw_wins": 9948,
+      "bw_fkdr": 6.416319733555371,
+      "bb_score": 2290,
+      "duels_wins": 12213,
+      "duels_wlr": 3.178813118167621,
+      "sw_wins": 1788,
+      "sw_kdr": 1.5149071618037135,
+      "tnt_wins": 109,
+      "uhc_score": 0,
+      "fetched_at": 1769604587
+    },
+    "sb": {
+      "level": 346,
+      "fetched_at": 1769604587
+    }
+  },
+  "462943910de94b9eabcbcf3aaad1f1b8": {
+    "req": {
+      "ap": 8595,
+      "bw_wins": 217,
+      "bw_fkdr": 0.7637614678899083,
+      "bb_score": 49125,
+      "duels_wins": 88,
+      "duels_wlr": 0.3893805309734513,
+      "sw_wins": 306,
+      "sw_kdr": 0.519121710047986,
+      "tnt_wins": 15,
+      "uhc_score": 0,
+      "fetched_at": 1769604594
+    },
+    "sb": {
+      "level": 192,
+      "fetched_at": 1769604594
+    }
+  },
+  "94cf058cfde04044ad3c01ac8bdf0b90": {
+    "req": {
+      "ap": 6185,
+      "bw_wins": 8321,
+      "bw_fkdr": 6.537931034482758,
+      "bb_score": 2250,
+      "duels_wins": 3225,
+      "duels_wlr": 1.4474865350089767,
+      "sw_wins": 34,
+      "sw_kdr": 0.9142857142857143,
+      "tnt_wins": 225,
+      "uhc_score": 0,
+      "fetched_at": 1769604590
+    },
+    "sb": {
+      "level": 11,
+      "fetched_at": 1769604591
+    }
+  },
+  "dfb9a5bfe9c9402db82fc8aa294320e7": {
+    "req": {
+      "ap": 3895,
+      "bw_wins": 13872,
+      "bw_fkdr": 6.980041293874742,
+      "bb_score": 75,
+      "duels_wins": 1204,
+      "duels_wlr": 1.1677982541222114,
+      "sw_wins": 63,
+      "sw_kdr": 1.6241379310344828,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1769604592
+    },
+    "sb": {
+      "level": 1,
+      "fetched_at": 1769604592
+    }
+  },
+  "61ca0d76c82348d3a20ea11e707eab03": {
+    "req": {
+      "ap": 2225,
+      "bw_wins": 9335,
+      "bw_fkdr": 9.993177816901408,
+      "bb_score": 0,
+      "duels_wins": 4478,
+      "duels_wlr": 1.4581569521328557,
+      "sw_wins": 15,
+      "sw_kdr": 0.375,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604598
+    },
+    "sb": {
+      "level": 4,
+      "fetched_at": 1769604598
+    }
+  },
+  "57a887d55da54e1f97e38c68fecd7bf1": {
+    "req": {
+      "ap": 16940,
+      "bw_wins": 11405,
+      "bw_fkdr": 41.17290748898679,
+      "bb_score": 1495,
+      "duels_wins": 8372,
+      "duels_wlr": 2.4536928487690504,
+      "sw_wins": 3543,
+      "sw_kdr": 1.80997798972854,
+      "tnt_wins": 73,
+      "uhc_score": 0,
+      "fetched_at": 1769604587
+    },
+    "sb": {
+      "level": 356,
+      "fetched_at": 1769604588
+    }
+  },
+  "60fd65c33e10428ca7d2de2b80fa9f03": {
+    "req": {
+      "ap": 7770,
+      "bw_wins": 5149,
+      "bw_fkdr": 5.816430726386633,
+      "bb_score": 190,
+      "duels_wins": 2698,
+      "duels_wlr": 1.3800511508951407,
+      "sw_wins": 1766,
+      "sw_kdr": 2.2532876959106467,
+      "tnt_wins": 127,
+      "uhc_score": 0,
+      "fetched_at": 1769604595
+    },
+    "sb": {
+      "level": 15,
+      "fetched_at": 1769604596
+    }
+  },
+  "61b6fdedb0124a01986ae8b5267d52a4": {
+    "req": {
+      "ap": 5340,
+      "bw_wins": 1189,
+      "bw_fkdr": 3.493941142527409,
+      "bb_score": 2600,
+      "duels_wins": 1329,
+      "duels_wlr": 3.0204545454545455,
+      "sw_wins": 1425,
+      "sw_kdr": 1.3514531121308389,
+      "tnt_wins": 8,
+      "uhc_score": 0,
+      "fetched_at": 1769604595
+    },
+    "sb": {
+      "level": 5,
+      "fetched_at": 1769604595
+    }
+  },
+  "3da84ba3828d4f1e857bd1e3270bc944": {
+    "req": {
+      "ap": 8170,
+      "bw_wins": 12711,
+      "bw_fkdr": 8.457673155273879,
+      "bb_score": 21240,
+      "duels_wins": 1323,
+      "duels_wlr": 2.2615384615384615,
+      "sw_wins": 240,
+      "sw_kdr": 1.3182481751824817,
+      "tnt_wins": 30,
+      "uhc_score": 3,
+      "fetched_at": 1769604585
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604586
+    }
+  },
+  "e27c440924a6484aa15d7f28509edf10": {
+    "req": {
+      "ap": 8615,
+      "bw_wins": 2922,
+      "bw_fkdr": 1.8215430120778902,
+      "bb_score": 3200,
+      "duels_wins": 4736,
+      "duels_wlr": 1.0338354071163502,
+      "sw_wins": 667,
+      "sw_kdr": 0.9589521107959286,
+      "tnt_wins": 22,
+      "uhc_score": 0,
+      "fetched_at": 1769604594
+    },
+    "sb": {
+      "level": 146,
+      "fetched_at": 1769604595
+    }
+  },
+  "0c2c1fa470084416acc83736441b25d4": {
+    "req": {
+      "ap": 4490,
+      "bw_wins": 18423,
+      "bw_fkdr": 15.930908203125,
+      "bb_score": 430,
+      "duels_wins": 8569,
+      "duels_wlr": 3.072427393330943,
+      "sw_wins": 607,
+      "sw_kdr": 2.068343815513627,
+      "tnt_wins": 10,
+      "uhc_score": 0,
+      "fetched_at": 1766780019
+    },
+    "sb": {
+      "level": 11,
+      "fetched_at": 1766780020
+    }
+  },
+  "5969b18f4a4840b6b85404baf98f31d7": {
+    "req": {
+      "ap": 3310,
+      "bw_wins": 24442,
+      "bw_fkdr": 24.473595370147095,
+      "bb_score": 155,
+      "duels_wins": 2212,
+      "duels_wlr": 2.2097902097902096,
+      "sw_wins": 25,
+      "sw_kdr": 2.1714285714285713,
+      "tnt_wins": 36,
+      "uhc_score": 0,
+      "fetched_at": 1769604653
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604654
+    }
+  },
+  "6f3f119c198c4c26b9b9fbd56ad8d5f8": {
+    "req": {
+      "ap": 755,
+      "bw_wins": 116,
+      "bw_fkdr": 0.21558661584074545,
+      "bb_score": 0,
+      "duels_wins": 7,
+      "duels_wlr": 0.7777777777777778,
+      "sw_wins": 0,
+      "sw_kdr": 1.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604598
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604599
+    }
+  },
+  "a8d6ae205ccf4b4b8232b709b27c0398": {
+    "req": {
+      "ap": 3885,
+      "bw_wins": 3897,
+      "bw_fkdr": 19.139044943820224,
+      "bb_score": 365,
+      "duels_wins": 585,
+      "duels_wlr": 2.0818505338078293,
+      "sw_wins": 37,
+      "sw_kdr": 1.2294372294372293,
+      "tnt_wins": 9,
+      "uhc_score": 0,
+      "fetched_at": 1767029299
+    },
+    "sb": {
+      "level": 3,
+      "fetched_at": 1767029299
+    }
+  },
+  "68ef1f282c3d481ebc65bc31cb6168a3": {
+    "req": {
+      "ap": 5885,
+      "bw_wins": 3473,
+      "bw_fkdr": 5.391225416036309,
+      "bb_score": 205,
+      "duels_wins": 2823,
+      "duels_wlr": 1.4850078905839033,
+      "sw_wins": 100,
+      "sw_kdr": 0.910802775024777,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1768078270
+    },
+    "sb": {
+      "level": 309,
+      "fetched_at": 1768078270
+    }
+  },
+  "f004020897e345ec8b89fa03d2d07022": {
+    "req": {
+      "ap": 6785,
+      "bw_wins": 14057,
+      "bw_fkdr": 7.557573511242896,
+      "bb_score": 545,
+      "duels_wins": 10305,
+      "duels_wlr": 3.432711525649567,
+      "sw_wins": 2091,
+      "sw_kdr": 1.8819339016699754,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1769604604
+    },
+    "sb": {
+      "level": 89,
+      "fetched_at": 1769604604
+    }
+  },
+  "a6d8211734f745ff8cbaa1675325fc2a": {
+    "req": {
+      "ap": 6795,
+      "bw_wins": 4724,
+      "bw_fkdr": 3.0465412004069177,
+      "bb_score": 265,
+      "duels_wins": 9437,
+      "duels_wlr": 0.9479658463083878,
+      "sw_wins": 15,
+      "sw_kdr": 0.8022388059701493,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604615
+    },
+    "sb": {
+      "level": 400,
+      "fetched_at": 1769604616
+    }
+  },
+  "6f52845408424e76b768939c8f1122e1": {
+    "req": {
+      "ap": 5430,
+      "bw_wins": 3340,
+      "bw_fkdr": 10.502876869965478,
+      "bb_score": 2545,
+      "duels_wins": 1935,
+      "duels_wlr": 2.128712871287129,
+      "sw_wins": 67,
+      "sw_kdr": 1.8347826086956522,
+      "tnt_wins": 34,
+      "uhc_score": 0,
+      "fetched_at": 1769604637
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604637
+    }
+  },
+  "ef8de3fa79924bb598014008a1da3f7c": {
+    "req": {
+      "ap": 7715,
+      "bw_wins": 8716,
+      "bw_fkdr": 7.199834505585437,
+      "bb_score": 485,
+      "duels_wins": 2358,
+      "duels_wlr": 0.9624489795918367,
+      "sw_wins": 302,
+      "sw_kdr": 1.0801381692573402,
+      "tnt_wins": 1,
+      "uhc_score": 1,
+      "fetched_at": 1767805107
+    },
+    "sb": {
+      "level": 55,
+      "fetched_at": 1767805107
+    }
+  },
+  "58e7716c61b04d0087ad5ae28f7147f7": {
+    "req": {
+      "ap": 2950,
+      "bw_wins": 5548,
+      "bw_fkdr": 30.08514492753623,
+      "bb_score": 20,
+      "duels_wins": 2161,
+      "duels_wlr": 10.098130841121495,
+      "sw_wins": 125,
+      "sw_kdr": 2.5559210526315788,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767277064
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767277064
+    }
+  },
+  "aadeb0e885614181a6e52af87f577ae4": {
+    "req": {
+      "ap": 7860,
+      "bw_wins": 15842,
+      "bw_fkdr": 15.471481799942676,
+      "bb_score": 230,
+      "duels_wins": 1823,
+      "duels_wlr": 3.1109215017064846,
+      "sw_wins": 1591,
+      "sw_kdr": 2.0445205479452055,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769187494
+    },
+    "sb": {
+      "level": 416,
+      "fetched_at": 1769187494
+    }
+  },
+  "019c5f8237cf4f40bc4f6612e1ed9d71": {
+    "req": {
+      "ap": 6415,
+      "bw_wins": 2797,
+      "bw_fkdr": 11.208718626155878,
+      "bb_score": 915,
+      "duels_wins": 798,
+      "duels_wlr": 3.424892703862661,
+      "sw_wins": 6135,
+      "sw_kdr": 4.251573976915005,
+      "tnt_wins": 52,
+      "uhc_score": 354,
+      "fetched_at": 1769604639
+    },
+    "sb": {
+      "level": 4,
+      "fetched_at": 1769604639
+    }
+  },
+  "83cfdecfe95347268f8d24f72e4887fb": {
+    "req": {
+      "ap": 9470,
+      "bw_wins": 9225,
+      "bw_fkdr": 2.1534259589122433,
+      "bb_score": 2635,
+      "duels_wins": 247,
+      "duels_wlr": 0.7576687116564417,
+      "sw_wins": 198,
+      "sw_kdr": 0.4179580674567001,
+      "tnt_wins": 17,
+      "uhc_score": 0,
+      "fetched_at": 1769604620
+    },
+    "sb": {
+      "level": 133,
+      "fetched_at": 1769604621
+    }
+  },
+  "2820714a4ff74f779b5660bfd6fe7b48": {
+    "req": {
+      "ap": 2220,
+      "bw_wins": 6372,
+      "bw_fkdr": 22.261603375527425,
+      "bb_score": 0,
+      "duels_wins": 231,
+      "duels_wlr": 6.078947368421052,
+      "sw_wins": 11,
+      "sw_kdr": 2.44,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604600
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604600
+    }
+  },
+  "5077398790784c55acf317a88e6a2537": {
+    "req": {
+      "ap": 2310,
+      "bw_wins": 862,
+      "bw_fkdr": 30.724137931034484,
+      "bb_score": 0,
+      "duels_wins": 120,
+      "duels_wlr": 0.8695652173913043,
+      "sw_wins": 32,
+      "sw_kdr": 1.5149700598802396,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767805098
+    },
+    "sb": {
+      "level": 55,
+      "fetched_at": 1767805098
+    }
+  },
+  "1a6b02e7234f430a962e88a2699c5344": {
+    "req": {
+      "ap": 10490,
+      "bw_wins": 3714,
+      "bw_fkdr": 11.633193863319386,
+      "bb_score": 90,
+      "duels_wins": 1004,
+      "duels_wlr": 2.3348837209302324,
+      "sw_wins": 526,
+      "sw_kdr": 1.8223529411764705,
+      "tnt_wins": 538,
+      "uhc_score": 0,
+      "fetched_at": 1769604610
+    },
+    "sb": {
+      "level": 361,
+      "fetched_at": 1769604611
+    }
+  },
+  "ada9088ff4874b80b0b4b3ec1441a52f": {
+    "req": {
+      "ap": 10435,
+      "bw_wins": 6628,
+      "bw_fkdr": 11.96875,
+      "bb_score": 405,
+      "duels_wins": 3729,
+      "duels_wlr": 4.972,
+      "sw_wins": 1161,
+      "sw_kdr": 1.1528584189370255,
+      "tnt_wins": 166,
+      "uhc_score": 223,
+      "fetched_at": 1769604619
+    },
+    "sb": {
+      "level": 10,
+      "fetched_at": 1769604619
+    }
+  },
+  "576a41dea4544bc39163bbc2260dc2bf": {
+    "req": {
+      "ap": 1935,
+      "bw_wins": 3673,
+      "bw_fkdr": 12.425125628140703,
+      "bb_score": 75,
+      "duels_wins": 32,
+      "duels_wlr": 1.391304347826087,
+      "sw_wins": 11,
+      "sw_kdr": 2.3125,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604626
+    },
+    "sb": {
+      "level": 1,
+      "fetched_at": 1769604626
+    }
+  },
+  "ad6864b5c2dc49a9a4b1ea5dcf439729": {
+    "req": {
+      "ap": 3410,
+      "bw_wins": 3676,
+      "bw_fkdr": 14.220988900100908,
+      "bb_score": 3290,
+      "duels_wins": 30014,
+      "duels_wlr": 22.824334600760455,
+      "sw_wins": 23,
+      "sw_kdr": 1.5555555555555556,
+      "tnt_wins": 2,
+      "uhc_score": 4,
+      "fetched_at": 1766652594
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1766652595
+    }
+  },
+  "18002f6dfa984ba5aaca3450470e1a56": {
+    "req": {
+      "ap": 5325,
+      "bw_wins": 2270,
+      "bw_fkdr": 11.276720351390923,
+      "bb_score": 1200,
+      "duels_wins": 400,
+      "duels_wlr": 3.6036036036036037,
+      "sw_wins": 27,
+      "sw_kdr": 2.0088495575221237,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1767277008
+    },
+    "sb": {
+      "level": 207,
+      "fetched_at": 1767277008
+    }
+  },
+  "c5d0b870dd76437aa9424efdc2094046": {
+    "req": {
+      "ap": 4840,
+      "bw_wins": 4026,
+      "bw_fkdr": 6.1529696132596685,
+      "bb_score": 965,
+      "duels_wins": 7665,
+      "duels_wlr": 1.9454314720812182,
+      "sw_wins": 15,
+      "sw_kdr": 1.0297029702970297,
+      "tnt_wins": 6,
+      "uhc_score": 0,
+      "fetched_at": 1769604608
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604608
+    }
+  },
+  "f344f154e2b149bfa8a0fd9615b2608c": {
+    "req": {
+      "ap": 9660,
+      "bw_wins": 18214,
+      "bw_fkdr": 8.493714408509724,
+      "bb_score": 8920,
+      "duels_wins": 9293,
+      "duels_wlr": 2.1096481271282634,
+      "sw_wins": 17711,
+      "sw_kdr": 1.9541089282582003,
+      "tnt_wins": 104,
+      "uhc_score": 0,
+      "fetched_at": 1769604652
+    },
+    "sb": {
+      "level": 29,
+      "fetched_at": 1769604652
+    }
+  },
+  "76baa166fa4942469cb636cbb819c9b6": {
+    "req": {
+      "ap": 2015,
+      "bw_wins": 779,
+      "bw_fkdr": 16.10576923076923,
+      "bb_score": 10,
+      "duels_wins": 260,
+      "duels_wlr": 130.0,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1767117470
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767117470
+    }
+  },
+  "66377dd19c7e422c8bac18a331f41890": {
+    "req": {
+      "ap": 4495,
+      "bw_wins": 5335,
+      "bw_fkdr": 5.1992058239576435,
+      "bb_score": 895,
+      "duels_wins": 1710,
+      "duels_wlr": 1.41439205955335,
+      "sw_wins": 309,
+      "sw_kdr": 0.8372155287817938,
+      "tnt_wins": 10,
+      "uhc_score": 0,
+      "fetched_at": 1769604621
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604622
+    }
+  },
+  "0af9bd49133241d8bc9ee8ab71a4c78b": {
+    "req": {
+      "ap": 3870,
+      "bw_wins": 5819,
+      "bw_fkdr": 4.1105943152454785,
+      "bb_score": 2905,
+      "duels_wins": 1239,
+      "duels_wlr": 1.7401685393258426,
+      "sw_wins": 27,
+      "sw_kdr": 0.8106995884773662,
+      "tnt_wins": 9,
+      "uhc_score": 0,
+      "fetched_at": 1769604626
+    },
+    "sb": {
+      "level": 5,
+      "fetched_at": 1769604626
+    }
+  },
+  "1d1c127a91e44ca8811b188ec3295f09": {
+    "req": {
+      "ap": 3055,
+      "bw_wins": 654,
+      "bw_fkdr": 13.33939393939394,
+      "bb_score": 0,
+      "duels_wins": 172,
+      "duels_wlr": 1.9545454545454546,
+      "sw_wins": 5,
+      "sw_kdr": 1.875,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1766939483
+    },
+    "sb": {
+      "level": 184,
+      "fetched_at": 1766939483
+    }
+  },
+  "c1ccef7a07734b859a100d2c3f896571": {
+    "req": {
+      "ap": 5095,
+      "bw_wins": 8032,
+      "bw_fkdr": 6.202866593164278,
+      "bb_score": 2910,
+      "duels_wins": 1045,
+      "duels_wlr": 1.2151162790697674,
+      "sw_wins": 30,
+      "sw_kdr": 0.34524847428073235,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1769187498
+    },
+    "sb": {
+      "level": 4,
+      "fetched_at": 1769187498
+    }
+  },
+  "d72de9b3bb20479cb16d45d766f36c26": {
+    "req": {
+      "ap": 3755,
+      "bw_wins": 7487,
+      "bw_fkdr": 9.835518474374256,
+      "bb_score": 330,
+      "duels_wins": 323,
+      "duels_wlr": 1.247104247104247,
+      "sw_wins": 5,
+      "sw_kdr": 0.9425287356321839,
+      "tnt_wins": 5,
+      "uhc_score": 0,
+      "fetched_at": 1769604603
+    },
+    "sb": {
+      "level": 34,
+      "fetched_at": 1769604603
+    }
+  },
+  "8a85159c4a664954ae870edecd9a07d4": {
+    "req": {
+      "ap": 5720,
+      "bw_wins": 7243,
+      "bw_fkdr": 7.876376218936772,
+      "bb_score": 1205,
+      "duels_wins": 1117,
+      "duels_wlr": 1.2466517857142858,
+      "sw_wins": 161,
+      "sw_kdr": 1.1849427168576105,
+      "tnt_wins": 21,
+      "uhc_score": 0,
+      "fetched_at": 1769604616
+    },
+    "sb": {
+      "level": 70,
+      "fetched_at": 1769604616
+    }
+  },
+  "9e3b0cda425744cdadf433743405b413": {
+    "req": {
+      "ap": 7210,
+      "bw_wins": 3319,
+      "bw_fkdr": 2.5254833040421794,
+      "bb_score": 2645,
+      "duels_wins": 914,
+      "duels_wlr": 0.8582159624413146,
+      "sw_wins": 218,
+      "sw_kdr": 0.7878548895899053,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604654
+    },
+    "sb": {
+      "level": 489,
+      "fetched_at": 1769604654
+    }
+  },
+  "60531c1dfe5b4b88b14e09ec546e5e47": {
+    "req": {
+      "ap": 6760,
+      "bw_wins": 3237,
+      "bw_fkdr": 6.104633204633204,
+      "bb_score": 490,
+      "duels_wins": 347,
+      "duels_wlr": 1.2851851851851852,
+      "sw_wins": 210,
+      "sw_kdr": 0.6398116662307088,
+      "tnt_wins": 5,
+      "uhc_score": 9,
+      "fetched_at": 1769604646
+    },
+    "sb": {
+      "level": 10,
+      "fetched_at": 1769604646
+    }
+  },
+  "96c298d66b93408c978dd85a0b25e770": {
+    "req": {
+      "ap": 3130,
+      "bw_wins": 4247,
+      "bw_fkdr": 7.847953216374269,
+      "bb_score": 35,
+      "duels_wins": 2701,
+      "duels_wlr": 1.7804878048780488,
+      "sw_wins": 20,
+      "sw_kdr": 1.3714285714285714,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767805103
+    },
+    "sb": {
+      "level": 31,
+      "fetched_at": 1767805103
+    }
+  },
+  "e3f8c084aab8441cad1a6428b04fbdc8": {
+    "req": {
+      "ap": 5585,
+      "bw_wins": 7469,
+      "bw_fkdr": 5.426909722222222,
+      "bb_score": 315,
+      "duels_wins": 1950,
+      "duels_wlr": 1.368421052631579,
+      "sw_wins": 629,
+      "sw_kdr": 1.1879363847944142,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1769604614
+    },
+    "sb": {
+      "level": 29,
+      "fetched_at": 1769604614
+    }
+  },
+  "de4b3a24012b4b85a8c0ef720464c149": {
+    "req": {
+      "ap": 2695,
+      "bw_wins": 2165,
+      "bw_fkdr": 6.36144578313253,
+      "bb_score": 10,
+      "duels_wins": 3429,
+      "duels_wlr": 3.62090813093981,
+      "sw_wins": 30,
+      "sw_kdr": 1.475609756097561,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604624
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604624
+    }
+  },
+  "c5424f304b7445d0931c1eef8fa64c00": {
+    "req": {
+      "ap": 17675,
+      "bw_wins": 4317,
+      "bw_fkdr": 3.4396899224806203,
+      "bb_score": 4150,
+      "duels_wins": 5736,
+      "duels_wlr": 2.1645283018867922,
+      "sw_wins": 577,
+      "sw_kdr": 1.1027863777089784,
+      "tnt_wins": 250,
+      "uhc_score": 1,
+      "fetched_at": 1769604577
+    },
+    "sb": {
+      "level": 180,
+      "fetched_at": 1769604578
+    }
+  },
+  "49166c9c24694394a6dc88d7f76c5b59": {
+    "req": {
+      "ap": 2175,
+      "bw_wins": 4681,
+      "bw_fkdr": 6.355976243504083,
+      "bb_score": 0,
+      "duels_wins": 569,
+      "duels_wlr": 0.6888619854721549,
+      "sw_wins": 1,
+      "sw_kdr": 0.6904761904761905,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767029343
+    },
+    "sb": {
+      "level": 3,
+      "fetched_at": 1767029343
+    }
+  },
+  "18f19d781d654583a03dc6cd74eb362f": {
+    "req": {
+      "ap": 2460,
+      "bw_wins": 138,
+      "bw_fkdr": 116.33333333333333,
+      "bb_score": 140,
+      "duels_wins": 224,
+      "duels_wlr": 4.571428571428571,
+      "sw_wins": 54,
+      "sw_kdr": 1.872340425531915,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604576
+    },
+    "sb": {
+      "level": 88,
+      "fetched_at": 1769604576
+    }
+  },
+  "2cef8aab8d3a46b69171ab0f09556b23": {
+    "req": {
+      "ap": 4620,
+      "bw_wins": 5753,
+      "bw_fkdr": 4.355607205113306,
+      "bb_score": 2145,
+      "duels_wins": 463,
+      "duels_wlr": 0.8654205607476636,
+      "sw_wins": 13,
+      "sw_kdr": 0.7109375,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1766780042
+    },
+    "sb": {
+      "level": 32,
+      "fetched_at": 1766780043
+    }
+  },
+  "dce4918432884d3ebaf49e773d46e84f": {
+    "req": {
+      "ap": 4470,
+      "bw_wins": 20548,
+      "bw_fkdr": 10.542184724689164,
+      "bb_score": 385,
+      "duels_wins": 72,
+      "duels_wlr": 0.5,
+      "sw_wins": 99,
+      "sw_kdr": 1.0471204188481675,
+      "tnt_wins": 5,
+      "uhc_score": 0,
+      "fetched_at": 1769604601
+    },
+    "sb": {
+      "level": 3,
+      "fetched_at": 1769604602
+    }
+  },
+  "16606f8dd8b349a78e95ce64fdf274b1": {
+    "req": {
+      "ap": 5430,
+      "bw_wins": 10321,
+      "bw_fkdr": 5.912703922249219,
+      "bb_score": 3880,
+      "duels_wins": 1104,
+      "duels_wlr": 1.92,
+      "sw_wins": 99,
+      "sw_kdr": 1.101468624833111,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1767029338
+    },
+    "sb": {
+      "level": 59,
+      "fetched_at": 1767029338
+    }
+  },
+  "17269bca4e4a4d34a279b4a853d5cb64": {
+    "req": {
+      "ap": 4760,
+      "bw_wins": 8088,
+      "bw_fkdr": 5.233734145939714,
+      "bb_score": 545,
+      "duels_wins": 6429,
+      "duels_wlr": 1.933533834586466,
+      "sw_wins": 781,
+      "sw_kdr": 1.2361856646668772,
+      "tnt_wins": 2,
+      "uhc_score": 20,
+      "fetched_at": 1767463137
+    },
+    "sb": {
+      "level": 5,
+      "fetched_at": 1767463137
+    }
+  },
+  "84d7be081b3849b1a589e208e2d56c22": {
+    "req": {
+      "ap": 4305,
+      "bw_wins": 7321,
+      "bw_fkdr": 10.5947879407256,
+      "bb_score": 770,
+      "duels_wins": 14210,
+      "duels_wlr": 2.112696996729111,
+      "sw_wins": 2543,
+      "sw_kdr": 1.1741665251599027,
+      "tnt_wins": 2,
+      "uhc_score": 24,
+      "fetched_at": 1767029341
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767029341
+    }
+  },
+  "667194bcad984b5d91c8ab825f094d9b": {
+    "req": {
+      "ap": 4040,
+      "bw_wins": 1975,
+      "bw_fkdr": 10.889030612244898,
+      "bb_score": 600,
+      "duels_wins": 248,
+      "duels_wlr": 3.5942028985507246,
+      "sw_wins": 1265,
+      "sw_kdr": 2.3772531099263774,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604602
+    },
+    "sb": {
+      "level": 2,
+      "fetched_at": 1769604602
+    }
+  },
+  "34f561f54c8d4dbeaac74541d3781eb7": {
+    "req": {
+      "ap": 10410,
+      "bw_wins": 4780,
+      "bw_fkdr": 7.894308943089431,
+      "bb_score": 6405,
+      "duels_wins": 1285,
+      "duels_wlr": 7.301136363636363,
+      "sw_wins": 267,
+      "sw_kdr": 3.0762564991334487,
+      "tnt_wins": 17,
+      "uhc_score": 46,
+      "fetched_at": 1766780051
+    },
+    "sb": {
+      "level": 156,
+      "fetched_at": 1766780051
+    }
+  },
+  "03bca1bb649744e399b5f9c6164a3cec": {
+    "req": {
+      "ap": 2785,
+      "bw_wins": 2257,
+      "bw_fkdr": 5.028533510285335,
+      "bb_score": 360,
+      "duels_wins": 3716,
+      "duels_wlr": 3.923970432946146,
+      "sw_wins": 24,
+      "sw_kdr": 1.4210526315789473,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604635
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604635
+    }
+  },
+  "5d391c95fa6a4f80a5b5f1f657b5098a": {
+    "req": {
+      "ap": 7465,
+      "bw_wins": 3325,
+      "bw_fkdr": 5.843832020997375,
+      "bb_score": 225,
+      "duels_wins": 72317,
+      "duels_wlr": 3.3528211785432798,
+      "sw_wins": 2966,
+      "sw_kdr": 1.367073651043718,
+      "tnt_wins": 17,
+      "uhc_score": 27,
+      "fetched_at": 1769604624
+    },
+    "sb": {
+      "level": 133,
+      "fetched_at": 1769604625
+    }
+  },
+  "2b836b59275a44f599bc1b7a4863da86": {
+    "req": {
+      "ap": 3960,
+      "bw_wins": 2264,
+      "bw_fkdr": 4.314566577301162,
+      "bb_score": 10,
+      "duels_wins": 7113,
+      "duels_wlr": 7.155935613682092,
+      "sw_wins": 1555,
+      "sw_kdr": 1.7292266034862074,
+      "tnt_wins": 1,
+      "uhc_score": 969,
+      "fetched_at": 1769604629
+    },
+    "sb": {
+      "level": 1,
+      "fetched_at": 1769604630
+    }
+  },
+  "9605e2e09fd448cfb5cbe09945623b9b": {
+    "req": {
+      "ap": 5480,
+      "bw_wins": 2259,
+      "bw_fkdr": 3.378925619834711,
+      "bb_score": 500,
+      "duels_wins": 4299,
+      "duels_wlr": 1.6222641509433962,
+      "sw_wins": 99,
+      "sw_kdr": 0.9105914718019257,
+      "tnt_wins": 5,
+      "uhc_score": 0,
+      "fetched_at": 1769187497
+    },
+    "sb": {
+      "level": 2,
+      "fetched_at": 1769187497
+    }
+  },
+  "cd8275e1981f4a8b9f95cebb47834c1f": {
+    "req": {
+      "ap": 14470,
+      "bw_wins": 2671,
+      "bw_fkdr": 10.338709677419354,
+      "bb_score": 2805,
+      "duels_wins": 6116,
+      "duels_wlr": 2.4601769911504423,
+      "sw_wins": 1446,
+      "sw_kdr": 1.810725051562748,
+      "tnt_wins": 47,
+      "uhc_score": 3,
+      "fetched_at": 1766939511
+    },
+    "sb": {
+      "level": 368,
+      "fetched_at": 1766939511
+    }
+  },
+  "bb8db4d0267b47588233bad87859080e": {
+    "req": {
+      "ap": 4760,
+      "bw_wins": 1436,
+      "bw_fkdr": 0.5467815932156262,
+      "bb_score": 51420,
+      "duels_wins": 1849,
+      "duels_wlr": 0.49959470413401785,
+      "sw_wins": 17,
+      "sw_kdr": 0.17960602549246812,
+      "tnt_wins": 20,
+      "uhc_score": 0,
+      "fetched_at": 1769187491
+    },
+    "sb": {
+      "level": 3,
+      "fetched_at": 1769187491
+    }
+  },
+  "73f00528b2ea4b93a38f96e7240460b3": {
+    "req": {
+      "ap": 4865,
+      "bw_wins": 2303,
+      "bw_fkdr": 7.7100737100737105,
+      "bb_score": 2100,
+      "duels_wins": 5011,
+      "duels_wlr": 2.2350579839429083,
+      "sw_wins": 28,
+      "sw_kdr": 1.2647058823529411,
+      "tnt_wins": 20,
+      "uhc_score": 0,
+      "fetched_at": 1769604580
+    },
+    "sb": {
+      "level": 56,
+      "fetched_at": 1769604580
+    }
+  },
+  "f6d7706d8d2b40ddba3f6a0190234e49": {
+    "req": {
+      "ap": 3235,
+      "bw_wins": 3156,
+      "bw_fkdr": 2.2292984473835538,
+      "bb_score": 110,
+      "duels_wins": 3505,
+      "duels_wlr": 0.8877912867274569,
+      "sw_wins": 100,
+      "sw_kdr": 0.5686913982878108,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604638
+    },
+    "sb": {
+      "level": 6,
+      "fetched_at": 1769604639
+    }
+  },
+  "bba3f71f1269450a9796cc4962a35d54": {
+    "req": {
+      "ap": 9080,
+      "bw_wins": 6609,
+      "bw_fkdr": 14.024489795918367,
+      "bb_score": 3255,
+      "duels_wins": 2099,
+      "duels_wlr": 2.41542002301496,
+      "sw_wins": 2648,
+      "sw_kdr": 1.727461139896373,
+      "tnt_wins": 15,
+      "uhc_score": 110,
+      "fetched_at": 1769604632
+    },
+    "sb": {
+      "level": 86,
+      "fetched_at": 1769604633
+    }
+  },
+  "2e7b83c056ce40109a34c1cad13a6db3": {
+    "req": {
+      "ap": 4525,
+      "bw_wins": 7451,
+      "bw_fkdr": 4.39746835443038,
+      "bb_score": 1755,
+      "duels_wins": 1967,
+      "duels_wlr": 1.0045965270684372,
+      "sw_wins": 165,
+      "sw_kdr": 0.4194107452339688,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1767029345
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767029345
+    }
+  },
+  "3b05affece824b9e826f8d09e9bdfa0a": {
+    "req": {
+      "ap": 7645,
+      "bw_wins": 5316,
+      "bw_fkdr": 7.288274449564772,
+      "bb_score": 1470,
+      "duels_wins": 3505,
+      "duels_wlr": 1.3382970599465445,
+      "sw_wins": 399,
+      "sw_kdr": 0.9436758893280632,
+      "tnt_wins": 260,
+      "uhc_score": 0,
+      "fetched_at": 1769187496
+    },
+    "sb": {
+      "level": 25,
+      "fetched_at": 1769187497
+    }
+  },
+  "c6f70cb12a9d4444a310a8bf3b510fe3": {
+    "req": {
+      "ap": 2965,
+      "bw_wins": 288,
+      "bw_fkdr": 10.797979797979798,
+      "bb_score": 10,
+      "duels_wins": 1113,
+      "duels_wlr": 4.96875,
+      "sw_wins": 169,
+      "sw_kdr": 1.753822629969419,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604618
+    },
+    "sb": {
+      "level": 28,
+      "fetched_at": 1769604618
+    }
+  },
+  "8c56a531fd5740cea67644cad6956db2": {
+    "req": {
+      "ap": 1265,
+      "bw_wins": 30,
+      "bw_fkdr": 9.642857142857142,
+      "bb_score": 0,
+      "duels_wins": 2,
+      "duels_wlr": 2.0,
+      "sw_wins": 0,
+      "sw_kdr": 1.5,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604636
+    },
+    "sb": {
+      "level": 97,
+      "fetched_at": 1769604636
+    }
+  },
+  "b605f689227a4240a1f183c970da18fd": {
+    "req": {
+      "ap": 5105,
+      "bw_wins": 7156,
+      "bw_fkdr": 8.131316857248247,
+      "bb_score": 805,
+      "duels_wins": 1218,
+      "duels_wlr": 1.12987012987013,
+      "sw_wins": 148,
+      "sw_kdr": 1.3044397463002113,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1766939506
+    },
+    "sb": {
+      "level": 1,
+      "fetched_at": 1766939507
+    }
+  },
+  "fb581cae3e9740bfbc8d2d8c4c5812a2": {
+    "req": {
+      "ap": 5245,
+      "bw_wins": 4067,
+      "bw_fkdr": 5.628417404697728,
+      "bb_score": 1950,
+      "duels_wins": 447,
+      "duels_wlr": 0.7512605042016807,
+      "sw_wins": 1215,
+      "sw_kdr": 0.7159673175460463,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1769604630
+    },
+    "sb": {
+      "level": 4,
+      "fetched_at": 1769604631
+    }
+  },
+  "39bbe1ffd37c454dafc44a2c59ea66bd": {
+    "req": {
+      "ap": 1920,
+      "bw_wins": 2144,
+      "bw_fkdr": 6.536162005785921,
+      "bb_score": 0,
+      "duels_wins": 152,
+      "duels_wlr": 0.7715736040609137,
+      "sw_wins": 5,
+      "sw_kdr": 1.1111111111111112,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1767029346
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767029346
+    }
+  },
+  "8a1968fb2d194392987d62e124c4ecc6": {
+    "req": {
+      "ap": 5350,
+      "bw_wins": 1989,
+      "bw_fkdr": 15.193493150684931,
+      "bb_score": 365,
+      "duels_wins": 22446,
+      "duels_wlr": 4.970327723649247,
+      "sw_wins": 203,
+      "sw_kdr": 2.272598870056497,
+      "tnt_wins": 41,
+      "uhc_score": 1,
+      "fetched_at": 1766939510
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1766939511
+    }
+  },
+  "cf4f4a41ec0c44d3832fef05da82165b": {
+    "req": {
+      "ap": 5010,
+      "bw_wins": 3598,
+      "bw_fkdr": 8.992438563327033,
+      "bb_score": 3705,
+      "duels_wins": 717,
+      "duels_wlr": 1.4397590361445782,
+      "sw_wins": 227,
+      "sw_kdr": 1.5678776290630976,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1769604646
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604647
+    }
+  },
+  "c298b8bc92d14ee089a9e494c8a1e153": {
+    "req": {
+      "ap": 5765,
+      "bw_wins": 7185,
+      "bw_fkdr": 6.256646579227224,
+      "bb_score": 4575,
+      "duels_wins": 497,
+      "duels_wlr": 1.2582278481012659,
+      "sw_wins": 220,
+      "sw_kdr": 0.7900923593618808,
+      "tnt_wins": 7,
+      "uhc_score": 2,
+      "fetched_at": 1766780057
+    },
+    "sb": {
+      "level": 11,
+      "fetched_at": 1766780058
+    }
+  },
+  "2d06dbd3ef45463c8fe72c3d4643a94d": {
+    "req": {
+      "ap": 3950,
+      "bw_wins": 3771,
+      "bw_fkdr": 9.890928725701944,
+      "bb_score": 335,
+      "duels_wins": 1583,
+      "duels_wlr": 2.9099264705882355,
+      "sw_wins": 727,
+      "sw_kdr": 1.1508014393195944,
+      "tnt_wins": 4,
+      "uhc_score": 1,
+      "fetched_at": 1769604629
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604629
+    }
+  },
+  "da15c7864dd340c8b17b19fc8e8315f1": {
+    "req": {
+      "ap": 6605,
+      "bw_wins": 11233,
+      "bw_fkdr": 8.058613295210865,
+      "bb_score": 1780,
+      "duels_wins": 10680,
+      "duels_wlr": 1.7326411421155095,
+      "sw_wins": 452,
+      "sw_kdr": 1.488139362490734,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1769604593
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604593
+    }
+  },
+  "f57769791b534598ae4a631e5e033c10": {
+    "req": {
+      "ap": 2565,
+      "bw_wins": 6983,
+      "bw_fkdr": 8.156385751520418,
+      "bb_score": 40,
+      "duels_wins": 157,
+      "duels_wlr": 1.3418803418803418,
+      "sw_wins": 4,
+      "sw_kdr": 1.0,
+      "tnt_wins": 300,
+      "uhc_score": 0,
+      "fetched_at": 1769604610
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604610
+    }
+  },
+  "d88a553d263841909ed1f6b5011334b6": {
+    "req": {
+      "ap": 6190,
+      "bw_wins": 2647,
+      "bw_fkdr": 7.651109410864575,
+      "bb_score": 200,
+      "duels_wins": 5132,
+      "duels_wlr": 2.2187635105923045,
+      "sw_wins": 21,
+      "sw_kdr": 0.8975609756097561,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1769604611
+    },
+    "sb": {
+      "level": 182,
+      "fetched_at": 1769604612
+    }
+  },
+  "1378289194894205946fe3171169a107": {
+    "req": {
+      "ap": 8480,
+      "bw_wins": 6895,
+      "bw_fkdr": 6.292492917847025,
+      "bb_score": 560,
+      "duels_wins": 5730,
+      "duels_wlr": 2.982821447162936,
+      "sw_wins": 650,
+      "sw_kdr": 1.383882384971413,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1769604619
+    },
+    "sb": {
+      "level": 311,
+      "fetched_at": 1769604620
+    }
+  },
+  "666e41e97d1e46d4b86fed6889cba43c": {
+    "req": {
+      "ap": 1590,
+      "bw_wins": 1764,
+      "bw_fkdr": 15.122916666666667,
+      "bb_score": 0,
+      "duels_wins": 6,
+      "duels_wlr": 1.5,
+      "sw_wins": 26,
+      "sw_kdr": 3.642857142857143,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1766780041
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1766780041
+    }
+  },
+  "dbc1126c62a94dd5a8f4aa667450b696": {
+    "req": {
+      "ap": 2135,
+      "bw_wins": 2197,
+      "bw_fkdr": 6.282920469361147,
+      "bb_score": 330,
+      "duels_wins": 4,
+      "duels_wlr": 1.3333333333333333,
+      "sw_wins": 1,
+      "sw_kdr": 0.4230769230769231,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1768078310
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1768078311
+    }
+  },
+  "5c94fbb8fa0f409987dca65475ae2707": {
+    "req": {
+      "ap": 2390,
+      "bw_wins": 1782,
+      "bw_fkdr": 6.565085771947528,
+      "bb_score": 425,
+      "duels_wins": 186,
+      "duels_wlr": 1.617391304347826,
+      "sw_wins": 13,
+      "sw_kdr": 1.0508474576271187,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1766780060
+    },
+    "sb": {
+      "level": 38,
+      "fetched_at": 1766780061
+    }
+  },
+  "5e5caba7c6124a4e9ef33bbab5693dda": {
+    "req": {
+      "ap": 10715,
+      "bw_wins": 4682,
+      "bw_fkdr": 9.165616045845272,
+      "bb_score": 965,
+      "duels_wins": 2640,
+      "duels_wlr": 1.3636363636363635,
+      "sw_wins": 228,
+      "sw_kdr": 1.1746323529411764,
+      "tnt_wins": 134,
+      "uhc_score": 0,
+      "fetched_at": 1768078312
+    },
+    "sb": {
+      "level": 403,
+      "fetched_at": 1768078312
+    }
+  },
+  "be29ff3029af47dc981b8e76501c46f0": {
+    "req": {
+      "ap": 3940,
+      "bw_wins": 4020,
+      "bw_fkdr": 20.852125693160815,
+      "bb_score": 220,
+      "duels_wins": 2583,
+      "duels_wlr": 2.1724137931034484,
+      "sw_wins": 758,
+      "sw_kdr": 1.147267286186801,
+      "tnt_wins": 0,
+      "uhc_score": 1,
+      "fetched_at": 1767277048
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767277048
+    }
+  },
+  "bd3335a1d25840bcace38d5ba3716752": {
+    "req": {
+      "ap": 7980,
+      "bw_wins": 4469,
+      "bw_fkdr": 5.954463965579061,
+      "bb_score": 80,
+      "duels_wins": 3716,
+      "duels_wlr": 2.785607196401799,
+      "sw_wins": 19,
+      "sw_kdr": 1.2730923694779117,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1766780059
+    },
+    "sb": {
+      "level": 351,
+      "fetched_at": 1766780059
+    }
+  },
+  "6ca3ba342dc8475697cb89b29e4639b1": {
+    "req": {
+      "ap": 4820,
+      "bw_wins": 5509,
+      "bw_fkdr": 7.631400602409639,
+      "bb_score": 1800,
+      "duels_wins": 1988,
+      "duels_wlr": 2.2286995515695067,
+      "sw_wins": 81,
+      "sw_kdr": 0.8696275071633238,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1766652625
+    },
+    "sb": {
+      "level": 49,
+      "fetched_at": 1766652626
+    }
+  },
+  "95f9d49a18e6488c942a030cb9e3498e": {
+    "req": {
+      "ap": 3640,
+      "bw_wins": 4719,
+      "bw_fkdr": 5.571428571428571,
+      "bb_score": 95,
+      "duels_wins": 69,
+      "duels_wlr": 1.1694915254237288,
+      "sw_wins": 47,
+      "sw_kdr": 0.8026981450252951,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767029339
+    },
+    "sb": {
+      "level": 76,
+      "fetched_at": 1767029340
+    }
+  },
+  "dd95e2e4f19a4627a93411853e1a2955": {
+    "req": {
+      "ap": 3825,
+      "bw_wins": 2760,
+      "bw_fkdr": 3.757918552036199,
+      "bb_score": 1445,
+      "duels_wins": 4261,
+      "duels_wlr": 2.2497360084477296,
+      "sw_wins": 66,
+      "sw_kdr": 1.3728813559322033,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1766652627
+    },
+    "sb": {
+      "level": 2,
+      "fetched_at": 1766652627
+    }
+  },
+  "f9c6e916e2314cb2a852938dd6fa9b6a": {
+    "req": {
+      "ap": 4295,
+      "bw_wins": 5955,
+      "bw_fkdr": 5.609932617918642,
+      "bb_score": 615,
+      "duels_wins": 3950,
+      "duels_wlr": 1.9889224572004027,
+      "sw_wins": 103,
+      "sw_kdr": 1.1967871485943775,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604637
+    },
+    "sb": {
+      "level": 4,
+      "fetched_at": 1769604638
+    }
+  },
+  "4c8f1f1300254bb3a7f261e6094fac37": {
+    "req": {
+      "ap": 4215,
+      "bw_wins": 9060,
+      "bw_fkdr": 4.77481243301179,
+      "bb_score": 50,
+      "duels_wins": 7573,
+      "duels_wlr": 1.3467899697670282,
+      "sw_wins": 141,
+      "sw_kdr": 0.821451509312781,
+      "tnt_wins": 10,
+      "uhc_score": 0,
+      "fetched_at": 1766652628
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1766652628
+    }
+  },
+  "1a94e3056edd4a5e99096b503fdd5c89": {
+    "req": {
+      "ap": 3550,
+      "bw_wins": 4875,
+      "bw_fkdr": 8.979533826037521,
+      "bb_score": 340,
+      "duels_wins": 678,
+      "duels_wlr": 1.2578849721706864,
+      "sw_wins": 80,
+      "sw_kdr": 1.4607218683651804,
+      "tnt_wins": 13,
+      "uhc_score": 0,
+      "fetched_at": 1769604608
+    },
+    "sb": {
+      "level": 4,
+      "fetched_at": 1769604608
+    }
+  },
+  "aff14e8dba3241f4a02e932b7f7cff4d": {
+    "req": {
+      "ap": 10265,
+      "bw_wins": 1556,
+      "bw_fkdr": 3.310840707964602,
+      "bb_score": 505,
+      "duels_wins": 25525,
+      "duels_wlr": 17.211732973701956,
+      "sw_wins": 252,
+      "sw_kdr": 0.8269370021723389,
+      "tnt_wins": 9,
+      "uhc_score": 5,
+      "fetched_at": 1766861418
+    },
+    "sb": {
+      "level": 188,
+      "fetched_at": 1766861419
+    }
+  },
+  "4675184e05a94d09ad616cb6cf0687ec": {
+    "req": {
+      "ap": 8770,
+      "bw_wins": 593,
+      "bw_fkdr": 1.5089285714285714,
+      "bb_score": 2890,
+      "duels_wins": 203,
+      "duels_wlr": 0.8023715415019763,
+      "sw_wins": 1063,
+      "sw_kdr": 0.7789219779200297,
+      "tnt_wins": 46,
+      "uhc_score": 12,
+      "fetched_at": 1767029351
+    },
+    "sb": {
+      "level": 27,
+      "fetched_at": 1767029351
+    }
+  },
+  "b0c8237560af4941861510c35722c845": {
+    "req": {
+      "ap": 3255,
+      "bw_wins": 3277,
+      "bw_fkdr": 9.32779827798278,
+      "bb_score": 65,
+      "duels_wins": 1568,
+      "duels_wlr": 2.909090909090909,
+      "sw_wins": 29,
+      "sw_kdr": 2.204081632653061,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1766780061
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1766780061
+    }
+  },
+  "aa881351d1804dad858e1bd4e776814d": {
+    "req": {
+      "ap": 5355,
+      "bw_wins": 422,
+      "bw_fkdr": 1.1927346115035318,
+      "bb_score": 39775,
+      "duels_wins": 198,
+      "duels_wlr": 0.9339622641509434,
+      "sw_wins": 877,
+      "sw_kdr": 0.8972279043521196,
+      "tnt_wins": 12,
+      "uhc_score": 0,
+      "fetched_at": 1766652630
+    },
+    "sb": {
+      "level": 59,
+      "fetched_at": 1766652631
+    }
+  },
+  "ae40581648d44a8ca8166a0b06abb81a": {
+    "req": {
+      "ap": 6240,
+      "bw_wins": 3897,
+      "bw_fkdr": 5.043581886278515,
+      "bb_score": 1590,
+      "duels_wins": 12672,
+      "duels_wlr": 3.289719626168224,
+      "sw_wins": 96,
+      "sw_kdr": 1.2328308207705192,
+      "tnt_wins": 111,
+      "uhc_score": 0,
+      "fetched_at": 1766780063
+    },
+    "sb": {
+      "level": 7,
+      "fetched_at": 1766780063
+    }
+  },
+  "fe4eb0d6c8da45f487f67e155051fd76": {
+    "req": {
+      "ap": 6110,
+      "bw_wins": 3223,
+      "bw_fkdr": 1.271745835903763,
+      "bb_score": 340,
+      "duels_wins": 2064,
+      "duels_wlr": 0.7914110429447853,
+      "sw_wins": 2,
+      "sw_kdr": 0.22885572139303484,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604617
+    },
+    "sb": {
+      "level": 320,
+      "fetched_at": 1769604617
+    }
+  },
+  "2409ab65228d4b69b914dfb76508e18b": {
+    "req": {
+      "ap": 2145,
+      "bw_wins": 161,
+      "bw_fkdr": 10.41891891891892,
+      "bb_score": 395,
+      "duels_wins": 10509,
+      "duels_wlr": 6.192692987625221,
+      "sw_wins": 28,
+      "sw_kdr": 2.807017543859649,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767463125
+    },
+    "sb": {
+      "level": 6,
+      "fetched_at": 1767463125
+    }
+  },
+  "b183352cc7094369adbf0a9f2438d625": {
+    "req": {
+      "ap": 6450,
+      "bw_wins": 11446,
+      "bw_fkdr": 3.975570592957908,
+      "bb_score": 1250,
+      "duels_wins": 6865,
+      "duels_wlr": 1.1633621420098288,
+      "sw_wins": 186,
+      "sw_kdr": 0.49604331528529777,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604585
+    },
+    "sb": {
+      "level": 203,
+      "fetched_at": 1769604585
+    }
+  },
+  "da2418aa56454be5a16fba896134f961": {
+    "req": {
+      "ap": 10775,
+      "bw_wins": 7084,
+      "bw_fkdr": 4.3482271547996545,
+      "bb_score": 1215,
+      "duels_wins": 35012,
+      "duels_wlr": 3.9264326567231134,
+      "sw_wins": 2629,
+      "sw_kdr": 1.4221689634511683,
+      "tnt_wins": 39,
+      "uhc_score": 86,
+      "fetched_at": 1767463147
+    },
+    "sb": {
+      "level": 43,
+      "fetched_at": 1767463148
+    }
+  },
+  "2f16a5af1d324fda88648b7467c018a1": {
+    "req": {
+      "ap": 6320,
+      "bw_wins": 11388,
+      "bw_fkdr": 6.328482668410726,
+      "bb_score": 8295,
+      "duels_wins": 5974,
+      "duels_wlr": 2.008742434431742,
+      "sw_wins": 3025,
+      "sw_kdr": 0.7863963154347338,
+      "tnt_wins": 1,
+      "uhc_score": 1,
+      "fetched_at": 1769604599
+    },
+    "sb": {
+      "level": 1,
+      "fetched_at": 1769604599
+    }
+  },
+  "648ca21bbf874817920583faf7bbf5bc": {
+    "req": {
+      "ap": 4535,
+      "bw_wins": 630,
+      "bw_fkdr": 1.7921306607275427,
+      "bb_score": 180,
+      "duels_wins": 2670,
+      "duels_wlr": 1.38270326255826,
+      "sw_wins": 0,
+      "sw_kdr": 0.28,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1766939507
+    },
+    "sb": {
+      "level": 257,
+      "fetched_at": 1766939507
+    }
+  },
+  "2d70a7a7eff54ed99c5fd5674f75d9b5": {
+    "req": {
+      "ap": 2490,
+      "bw_wins": 31,
+      "bw_fkdr": 0.9433198380566802,
+      "bb_score": 0,
+      "duels_wins": 3,
+      "duels_wlr": 0.09375,
+      "sw_wins": 1,
+      "sw_kdr": 0.3157894736842105,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767117461
+    },
+    "sb": {
+      "level": 227,
+      "fetched_at": 1767117461
+    }
+  },
+  "5add1bdb171f46f28d2da5f6527d3f8c": {
+    "req": {
+      "ap": 2495,
+      "bw_wins": 6547,
+      "bw_fkdr": 11.640369967355822,
+      "bb_score": 0,
+      "duels_wins": 606,
+      "duels_wlr": 1.2242424242424241,
+      "sw_wins": 1,
+      "sw_kdr": 0.56,
+      "tnt_wins": 5,
+      "uhc_score": 0,
+      "fetched_at": 1769604606
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604607
+    }
+  },
+  "59e57736cd4e43e5886ba4946aa51ecf": {
+    "req": {
+      "ap": 3000,
+      "bw_wins": 2119,
+      "bw_fkdr": 4.323889246619446,
+      "bb_score": 155,
+      "duels_wins": 11,
+      "duels_wlr": 0.4230769230769231,
+      "sw_wins": 51,
+      "sw_kdr": 168.0,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1767029346
+    },
+    "sb": {
+      "level": 52,
+      "fetched_at": 1767029347
+    }
+  },
+  "c0ec0c3577194322a9060990506b4947": {
+    "req": {
+      "ap": 3370,
+      "bw_wins": 800,
+      "bw_fkdr": 0.8721359940872137,
+      "bb_score": 0,
+      "duels_wins": 62,
+      "duels_wlr": 0.4626865671641791,
+      "sw_wins": 0,
+      "sw_kdr": 0.45,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1768078302
+    },
+    "sb": {
+      "level": 302,
+      "fetched_at": 1768078302
+    }
+  },
+  "0a436c9442bd4d5b9b922ec15bc0e283": {
+    "req": {
+      "ap": 6015,
+      "bw_wins": 4324,
+      "bw_fkdr": 2.4437711637854216,
+      "bb_score": 730,
+      "duels_wins": 1263,
+      "duels_wlr": 0.7522334723049434,
+      "sw_wins": 48,
+      "sw_kdr": 0.6233766233766234,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1769604640
+    },
+    "sb": {
+      "level": 306,
+      "fetched_at": 1769604640
+    }
+  },
+  "771c189579bc4e1e8da7a6182cb0c318": {
+    "req": {
+      "ap": 4720,
+      "bw_wins": 2694,
+      "bw_fkdr": 5.336655112651647,
+      "bb_score": 145,
+      "duels_wins": 1306,
+      "duels_wlr": 2.9817351598173514,
+      "sw_wins": 2329,
+      "sw_kdr": 3.0782683982683983,
+      "tnt_wins": 1,
+      "uhc_score": 308,
+      "fetched_at": 1769604611
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604611
+    }
+  },
+  "1a761a1829a84404ba362d36dc8dd363": {
+    "req": {
+      "ap": 4385,
+      "bw_wins": 47,
+      "bw_fkdr": 0.6313131313131313,
+      "bb_score": 265,
+      "duels_wins": 221,
+      "duels_wlr": 0.6314285714285715,
+      "sw_wins": 89,
+      "sw_kdr": 0.6492926284437825,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1766694210
+    },
+    "sb": {
+      "level": 273,
+      "fetched_at": 1766694210
+    }
+  },
+  "2f24d5a65e2e45adad027e3c5767f78a": {
+    "req": {
+      "ap": 13185,
+      "bw_wins": 1689,
+      "bw_fkdr": 1.8393540161495963,
+      "bb_score": 17445,
+      "duels_wins": 155,
+      "duels_wlr": 0.7908163265306123,
+      "sw_wins": 13,
+      "sw_kdr": 0.3780487804878049,
+      "tnt_wins": 156,
+      "uhc_score": 0,
+      "fetched_at": 1769604641
+    },
+    "sb": {
+      "level": 30,
+      "fetched_at": 1769604642
+    }
+  },
+  "29c67476afe24b8683204960873ad987": {
+    "req": {
+      "ap": 7985,
+      "bw_wins": 2240,
+      "bw_fkdr": 3.3152627189324435,
+      "bb_score": 160,
+      "duels_wins": 1536,
+      "duels_wlr": 1.158371040723982,
+      "sw_wins": 771,
+      "sw_kdr": 1.201822004204625,
+      "tnt_wins": 6,
+      "uhc_score": 2,
+      "fetched_at": 1769604608
+    },
+    "sb": {
+      "level": 233,
+      "fetched_at": 1769604609
+    }
+  },
+  "de5bfd647659436da17bb16ff5d3d908": {
+    "req": {
+      "ap": 4295,
+      "bw_wins": 2774,
+      "bw_fkdr": 6.654639175257732,
+      "bb_score": 120,
+      "duels_wins": 5249,
+      "duels_wlr": 3.9055059523809526,
+      "sw_wins": 372,
+      "sw_kdr": 1.1217150760719226,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1768078301
+    },
+    "sb": {
+      "level": 6,
+      "fetched_at": 1768078302
+    }
+  },
+  "b8f5ead8bae84bafb2fa5a68a6cd07c3": {
+    "req": {
+      "ap": 3450,
+      "bw_wins": 41,
+      "bw_fkdr": 2.6555555555555554,
+      "bb_score": 150,
+      "duels_wins": 7561,
+      "duels_wlr": 2.5500843170320406,
+      "sw_wins": 41,
+      "sw_kdr": 0.9353448275862069,
+      "tnt_wins": 1,
+      "uhc_score": 5988,
+      "fetched_at": 1769604606
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604606
+    }
+  },
+  "d8a4fc06ec6c47ef9b84454c88f95c59": {
+    "req": {
+      "ap": 1600,
+      "bw_wins": 4354,
+      "bw_fkdr": 12.938303341902314,
+      "bb_score": 10,
+      "duels_wins": 19,
+      "duels_wlr": 0.95,
+      "sw_wins": 0,
+      "sw_kdr": 0.6470588235294118,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604599
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604599
+    }
+  },
+  "0b18f20fe2414c5483240a9ed4ad0e33": {
+    "req": {
+      "ap": 2530,
+      "bw_wins": 3009,
+      "bw_fkdr": 24.86231884057971,
+      "bb_score": 90,
+      "duels_wins": 1134,
+      "duels_wlr": 1.20254506892895,
+      "sw_wins": 0,
+      "sw_kdr": 0.37037037037037035,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1768078309
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1768078309
+    }
+  },
+  "cf9522fc73124c1faa79fa70cac6e3bc": {
+    "req": {
+      "ap": 2440,
+      "bw_wins": 1,
+      "bw_fkdr": 3.75,
+      "bb_score": 60,
+      "duels_wins": 0,
+      "duels_wlr": 0.0,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767463109
+    },
+    "sb": {
+      "level": 284,
+      "fetched_at": 1767463109
+    }
+  },
+  "4401077dde7e43e1aa310de5a9a5e5a2": {
+    "req": {
+      "ap": 7220,
+      "bw_wins": 7811,
+      "bw_fkdr": 4.6317080650107325,
+      "bb_score": 2865,
+      "duels_wins": 2360,
+      "duels_wlr": 1.2613575628006413,
+      "sw_wins": 882,
+      "sw_kdr": 1.167336548767417,
+      "tnt_wins": 9,
+      "uhc_score": 0,
+      "fetched_at": 1769604638
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604638
+    }
+  },
+  "9d0d8fb40bb84d9ba245280a7d2782fe": {
+    "req": {
+      "ap": 5215,
+      "bw_wins": 4365,
+      "bw_fkdr": 9.641399416909621,
+      "bb_score": 4650,
+      "duels_wins": 6130,
+      "duels_wlr": 2.134401114206128,
+      "sw_wins": 908,
+      "sw_kdr": 1.2627216209993093,
+      "tnt_wins": 11,
+      "uhc_score": 0,
+      "fetched_at": 1769187492
+    },
+    "sb": {
+      "level": 3,
+      "fetched_at": 1769187492
+    }
+  },
+  "e06839ffcaa5408c8636c530b9af4f64": {
+    "req": {
+      "ap": 7280,
+      "bw_wins": 3685,
+      "bw_fkdr": 5.4319920186232125,
+      "bb_score": 5060,
+      "duels_wins": 13993,
+      "duels_wlr": 4.992151266500178,
+      "sw_wins": 3741,
+      "sw_kdr": 1.9675651564391767,
+      "tnt_wins": 2244,
+      "uhc_score": 2,
+      "fetched_at": 1767117477
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767117478
+    }
+  },
+  "87deba80593d45aca7a1945048a07fbe": {
+    "req": {
+      "ap": 7620,
+      "bw_wins": 2856,
+      "bw_fkdr": 7.897155361050328,
+      "bb_score": 830,
+      "duels_wins": 3917,
+      "duels_wlr": 2.184606804238706,
+      "sw_wins": 2714,
+      "sw_kdr": 1.6834736842105262,
+      "tnt_wins": 41,
+      "uhc_score": 0,
+      "fetched_at": 1767029341
+    },
+    "sb": {
+      "level": 2,
+      "fetched_at": 1767029341
+    }
+  },
+  "2562cdb738104b56934b03529ddc2d56": {
+    "req": {
+      "ap": 7420,
+      "bw_wins": 1167,
+      "bw_fkdr": 1.6672955974842767,
+      "bb_score": 355,
+      "duels_wins": 20019,
+      "duels_wlr": 6.107077486272117,
+      "sw_wins": 1667,
+      "sw_kdr": 0.8674856436723123,
+      "tnt_wins": 55,
+      "uhc_score": 7,
+      "fetched_at": 1768078304
+    },
+    "sb": {
+      "level": 7,
+      "fetched_at": 1768078305
+    }
+  },
+  "1f5b62493d3246bc853edb344eb47113": {
+    "req": {
+      "ap": 9120,
+      "bw_wins": 4123,
+      "bw_fkdr": 12.852307692307692,
+      "bb_score": 1055,
+      "duels_wins": 11559,
+      "duels_wlr": 3.586410176853863,
+      "sw_wins": 6353,
+      "sw_kdr": 1.7870882157859826,
+      "tnt_wins": 60,
+      "uhc_score": 2,
+      "fetched_at": 1767463130
+    },
+    "sb": {
+      "level": 28,
+      "fetched_at": 1767463131
+    }
+  },
+  "28489ec2bef24bb6b0638db0dc1f9d84": {
+    "req": {
+      "ap": 16935,
+      "bw_wins": 666,
+      "bw_fkdr": 3.772504091653028,
+      "bb_score": 4310,
+      "duels_wins": 2768,
+      "duels_wlr": 2.5724907063197024,
+      "sw_wins": 5760,
+      "sw_kdr": 1.5490495690972435,
+      "tnt_wins": 1475,
+      "uhc_score": 30,
+      "fetched_at": 1769604615
+    },
+    "sb": {
+      "level": 501,
+      "fetched_at": 1769604615
+    }
+  },
+  "0df15495cd194875bfbc8053dc97903c": {
+    "req": {
+      "ap": 7095,
+      "bw_wins": 6004,
+      "bw_fkdr": 15.70813064628214,
+      "bb_score": 85,
+      "duels_wins": 7085,
+      "duels_wlr": 1.5744444444444445,
+      "sw_wins": 554,
+      "sw_kdr": 1.2277248238707004,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1767029348
+    },
+    "sb": {
+      "level": 206,
+      "fetched_at": 1767029349
+    }
+  },
+  "bfb8a4ca442b428da03076e21731961b": {
+    "req": {
+      "ap": 4320,
+      "bw_wins": 8045,
+      "bw_fkdr": 7.701057082452431,
+      "bb_score": 145,
+      "duels_wins": 685,
+      "duels_wlr": 1.3922764227642277,
+      "sw_wins": 146,
+      "sw_kdr": 0.9003174603174603,
+      "tnt_wins": 5,
+      "uhc_score": 20,
+      "fetched_at": 1769604607
+    },
+    "sb": {
+      "level": 37,
+      "fetched_at": 1769604607
+    }
+  },
+  "ec44f75020214a69ad14522ffafffb5f": {
+    "req": {
+      "ap": 3755,
+      "bw_wins": 2067,
+      "bw_fkdr": 2.7259178480552526,
+      "bb_score": 565,
+      "duels_wins": 6659,
+      "duels_wlr": 1.622958810626371,
+      "sw_wins": 1074,
+      "sw_kdr": 0.67421875,
+      "tnt_wins": 4,
+      "uhc_score": 1122,
+      "fetched_at": 1767463119
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767463120
+    }
+  },
+  "31fb0284e5f24d9da873186217f072cd": {
+    "req": {
+      "ap": 15830,
+      "bw_wins": 903,
+      "bw_fkdr": 2.6372549019607843,
+      "bb_score": 15300,
+      "duels_wins": 6241,
+      "duels_wlr": 6.725215517241379,
+      "sw_wins": 2925,
+      "sw_kdr": 1.1275310254735467,
+      "tnt_wins": 318,
+      "uhc_score": 11,
+      "fetched_at": 1767277050
+    },
+    "sb": {
+      "level": 80,
+      "fetched_at": 1767277050
+    }
+  },
+  "a46f586d62fd48d58ba27d3a989f5a38": {
+    "req": {
+      "ap": 5925,
+      "bw_wins": 971,
+      "bw_fkdr": 2.741516966067864,
+      "bb_score": 300,
+      "duels_wins": 189,
+      "duels_wlr": 0.9174757281553398,
+      "sw_wins": 17,
+      "sw_kdr": 0.7121212121212122,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1769604650
+    },
+    "sb": {
+      "level": 352,
+      "fetched_at": 1769604650
+    }
+  },
+  "6cce41c9b8b6440887d61ac7161ed4ac": {
+    "req": {
+      "ap": 2865,
+      "bw_wins": 3317,
+      "bw_fkdr": 12.830463576158941,
+      "bb_score": 155,
+      "duels_wins": 373,
+      "duels_wlr": 3.518867924528302,
+      "sw_wins": 8,
+      "sw_kdr": 2.024390243902439,
+      "tnt_wins": 6,
+      "uhc_score": 0,
+      "fetched_at": 1769604602
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604602
+    }
+  },
+  "d9a4b1f1210642eeb639112e71a16eca": {
+    "req": {
+      "ap": 7095,
+      "bw_wins": 4047,
+      "bw_fkdr": 6.751923947487551,
+      "bb_score": 305,
+      "duels_wins": 3309,
+      "duels_wlr": 2.632458233890215,
+      "sw_wins": 233,
+      "sw_kdr": 1.3290405666452028,
+      "tnt_wins": 4,
+      "uhc_score": 2,
+      "fetched_at": 1767277060
+    },
+    "sb": {
+      "level": 84,
+      "fetched_at": 1767277060
+    }
+  },
+  "76c3bd143873408887eeb42e81ae648e": {
+    "req": {
+      "ap": 2885,
+      "bw_wins": 2907,
+      "bw_fkdr": 4.485607008760951,
+      "bb_score": 0,
+      "duels_wins": 227,
+      "duels_wlr": 0.8254545454545454,
+      "sw_wins": 15,
+      "sw_kdr": 0.7982456140350878,
+      "tnt_wins": 6,
+      "uhc_score": 0,
+      "fetched_at": 1769604603
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604603
+    }
+  },
+  "6571c7513e764afb96c3674c8dd5c71b": {
+    "req": {
+      "ap": 4900,
+      "bw_wins": 2522,
+      "bw_fkdr": 8.29736211031175,
+      "bb_score": 195,
+      "duels_wins": 3923,
+      "duels_wlr": 1.6559729843815956,
+      "sw_wins": 174,
+      "sw_kdr": 1.0728813559322035,
+      "tnt_wins": 25,
+      "uhc_score": 0,
+      "fetched_at": 1767805056
+    },
+    "sb": {
+      "level": 12,
+      "fetched_at": 1767805056
+    }
+  },
+  "d0a32878e16d4d999c960db22773a49d": {
+    "req": {
+      "ap": 9165,
+      "bw_wins": 3314,
+      "bw_fkdr": 6.1371656232214,
+      "bb_score": 480,
+      "duels_wins": 2451,
+      "duels_wlr": 1.8695652173913044,
+      "sw_wins": 340,
+      "sw_kdr": 1.7133237133237134,
+      "tnt_wins": 37,
+      "uhc_score": 0,
+      "fetched_at": 1769604656
+    },
+    "sb": {
+      "level": 280,
+      "fetched_at": 1769604656
+    }
+  },
+  "ac7b0c4aaf044c2eac7429692eb00ac0": {
+    "req": {
+      "ap": 2085,
+      "bw_wins": 3049,
+      "bw_fkdr": 6.527117031398668,
+      "bb_score": 515,
+      "duels_wins": 62,
+      "duels_wlr": 1.0508474576271187,
+      "sw_wins": 0,
+      "sw_kdr": 0.2727272727272727,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604607
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604607
+    }
+  },
+  "a3311e43964b4fe2b2f53c02fff89532": {
+    "req": {
+      "ap": 9840,
+      "bw_wins": 4172,
+      "bw_fkdr": 7.926232905097389,
+      "bb_score": 785,
+      "duels_wins": 2591,
+      "duels_wlr": 1.71475843812045,
+      "sw_wins": 1696,
+      "sw_kdr": 1.9463552724699222,
+      "tnt_wins": 29,
+      "uhc_score": 2,
+      "fetched_at": 1767199293
+    },
+    "sb": {
+      "level": 10,
+      "fetched_at": 1767199293
+    }
+  },
+  "580fd224fe1b4fefb1d4859a4717a72c": {
+    "req": {
+      "ap": 3730,
+      "bw_wins": 50,
+      "bw_fkdr": 2.8676470588235294,
+      "bb_score": 125,
+      "duels_wins": 1050,
+      "duels_wlr": 4.022988505747127,
+      "sw_wins": 524,
+      "sw_kdr": 2.1194659170765986,
+      "tnt_wins": 0,
+      "uhc_score": 2317,
+      "fetched_at": 1768078311
+    },
+    "sb": {
+      "level": 3,
+      "fetched_at": 1768078311
+    }
+  },
+  "15b9985c123f419c97a46c30fc5677c1": {
+    "req": {
+      "ap": 3535,
+      "bw_wins": 22,
+      "bw_fkdr": 0.42771084337349397,
+      "bb_score": 15,
+      "duels_wins": 50,
+      "duels_wlr": 0.3105590062111801,
+      "sw_wins": 2,
+      "sw_kdr": 0.17277486910994763,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1768078294
+    },
+    "sb": {
+      "level": 214,
+      "fetched_at": 1768078294
+    }
+  },
+  "56d435e074bf4489a0034bf5c2f3567f": {
+    "req": {
+      "ap": 2260,
+      "bw_wins": 1596,
+      "bw_fkdr": 10.993911719939117,
+      "bb_score": 10,
+      "duels_wins": 137,
+      "duels_wlr": 4.724137931034483,
+      "sw_wins": 68,
+      "sw_kdr": 2.6010362694300517,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604634
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604634
+    }
+  },
+  "2953d676b7054461aeb6bdaf356ba8a1": {
+    "req": {
+      "ap": 7560,
+      "bw_wins": 14237,
+      "bw_fkdr": 5.882289748311848,
+      "bb_score": 500,
+      "duels_wins": 7113,
+      "duels_wlr": 2.1315552891819,
+      "sw_wins": 953,
+      "sw_kdr": 0.7564840474667803,
+      "tnt_wins": 26,
+      "uhc_score": 0,
+      "fetched_at": 1767117473
+    },
+    "sb": {
+      "level": 120,
+      "fetched_at": 1767117473
+    }
+  },
+  "77b215b7286f4ada8fcc69ab0a03a534": {
+    "req": {
+      "ap": 2100,
+      "bw_wins": 3166,
+      "bw_fkdr": 7.4480476505625415,
+      "bb_score": 35,
+      "duels_wins": 3332,
+      "duels_wlr": 1.4076890578791719,
+      "sw_wins": 14,
+      "sw_kdr": 1.6615384615384616,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604643
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604643
+    }
+  },
+  "d18431c208ca4b5fabe7bf2c09680d60": {
+    "req": {
+      "ap": 6545,
+      "bw_wins": 283,
+      "bw_fkdr": 2.434188034188034,
+      "bb_score": 195,
+      "duels_wins": 1841,
+      "duels_wlr": 2.4096858638743455,
+      "sw_wins": 9591,
+      "sw_kdr": 2.300731707317073,
+      "tnt_wins": 10,
+      "uhc_score": 370,
+      "fetched_at": 1767463133
+    },
+    "sb": {
+      "level": 116,
+      "fetched_at": 1767463133
+    }
+  },
+  "09a23e27f69f4ab88853aff31837ea10": {
+    "req": {
+      "ap": 10440,
+      "bw_wins": 16177,
+      "bw_fkdr": 18.545151515151517,
+      "bb_score": 375,
+      "duels_wins": 5943,
+      "duels_wlr": 3.1477754237288136,
+      "sw_wins": 701,
+      "sw_kdr": 1.6805612876599256,
+      "tnt_wins": 60,
+      "uhc_score": 0,
+      "fetched_at": 1767805084
+    },
+    "sb": {
+      "level": 9,
+      "fetched_at": 1767805085
+    }
+  },
+  "d8507eedba9e427088d6aa91c2053704": {
+    "req": {
+      "ap": 5780,
+      "bw_wins": 7649,
+      "bw_fkdr": 3.736741308190925,
+      "bb_score": 35220,
+      "duels_wins": 53368,
+      "duels_wlr": 4.276624729545636,
+      "sw_wins": 502,
+      "sw_kdr": 1.1973743775464012,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1767805086
+    },
+    "sb": {
+      "level": 6,
+      "fetched_at": 1767805087
+    }
+  },
+  "d89af8ea378a48a580a05cbc22415dd5": {
+    "req": {
+      "ap": 3425,
+      "bw_wins": 2007,
+      "bw_fkdr": 22.191616766467067,
+      "bb_score": 1715,
+      "duels_wins": 823,
+      "duels_wlr": 4.649717514124294,
+      "sw_wins": 71,
+      "sw_kdr": 1.8794788273615635,
+      "tnt_wins": 10,
+      "uhc_score": 0,
+      "fetched_at": 1767463136
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767463136
+    }
+  },
+  "f779a41826f1457593d78114e1d210a8": {
+    "req": {
+      "ap": 6510,
+      "bw_wins": 3159,
+      "bw_fkdr": 4.201406328478152,
+      "bb_score": 1620,
+      "duels_wins": 3045,
+      "duels_wlr": 0.6833482944344704,
+      "sw_wins": 210,
+      "sw_kdr": 0.8665703275529865,
+      "tnt_wins": 15,
+      "uhc_score": 0,
+      "fetched_at": 1767277060
+    },
+    "sb": {
+      "level": 161,
+      "fetched_at": 1767277061
+    }
+  },
+  "8de04e7098a643a2b2e70db33ded68c6": {
+    "req": {
+      "ap": 3080,
+      "bw_wins": 13,
+      "bw_fkdr": 3.2857142857142856,
+      "bb_score": 100,
+      "duels_wins": 1664,
+      "duels_wlr": 4.129032258064516,
+      "sw_wins": 268,
+      "sw_kdr": 2.909297052154195,
+      "tnt_wins": 0,
+      "uhc_score": 8619,
+      "fetched_at": 1767199290
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767199291
+    }
+  },
+  "e51e2820b3f049818be3183a696bc1b1": {
+    "req": {
+      "ap": 9655,
+      "bw_wins": 959,
+      "bw_fkdr": 2.445490196078431,
+      "bb_score": 585,
+      "duels_wins": 9407,
+      "duels_wlr": 2.8088981785607645,
+      "sw_wins": 323,
+      "sw_kdr": 0.7828849028400597,
+      "tnt_wins": 21,
+      "uhc_score": 15,
+      "fetched_at": 1769604643
+    },
+    "sb": {
+      "level": 415,
+      "fetched_at": 1769604644
+    }
+  },
+  "a845423f556c4444986e73363c4f4c57": {
+    "req": {
+      "ap": 6355,
+      "bw_wins": 887,
+      "bw_fkdr": 1.8356229275225011,
+      "bb_score": 700,
+      "duels_wins": 2860,
+      "duels_wlr": 2.2222222222222223,
+      "sw_wins": 5356,
+      "sw_kdr": 1.0066442757009346,
+      "tnt_wins": 8,
+      "uhc_score": 7996,
+      "fetched_at": 1768078302
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1768078303
+    }
+  },
+  "b41192d09a3a4ced936549d783629e6f": {
+    "req": {
+      "ap": 1950,
+      "bw_wins": 10,
+      "bw_fkdr": 4.0,
+      "bb_score": 0,
+      "duels_wins": 0,
+      "duels_wlr": 0.0,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604655
+    },
+    "sb": {
+      "level": 214,
+      "fetched_at": 1769604655
+    }
+  },
+  "b9afdc65cbcb4b6288123e84ddcff241": {
+    "req": {
+      "ap": 11115,
+      "bw_wins": 5571,
+      "bw_fkdr": 7.663508771929824,
+      "bb_score": 1940,
+      "duels_wins": 4024,
+      "duels_wlr": 1.8803738317757008,
+      "sw_wins": 965,
+      "sw_kdr": 1.4791169451073987,
+      "tnt_wins": 97,
+      "uhc_score": 0,
+      "fetched_at": 1768078309
+    },
+    "sb": {
+      "level": 11,
+      "fetched_at": 1768078310
+    }
+  },
+  "2bf602366910437db4347a2ea639084b": {
+    "req": {
+      "ap": 1255,
+      "bw_wins": 634,
+      "bw_fkdr": 41.90909090909091,
+      "bb_score": 0,
+      "duels_wins": 530,
+      "duels_wlr": 5.955056179775281,
+      "sw_wins": 1,
+      "sw_kdr": 2.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604620
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604620
+    }
+  },
+  "5663b605daf1498b9b86e129048b8358": {
+    "req": {
+      "ap": 8150,
+      "bw_wins": 22201,
+      "bw_fkdr": 76.1268436578171,
+      "bb_score": 1560,
+      "duels_wins": 196,
+      "duels_wlr": 1.4306569343065694,
+      "sw_wins": 1447,
+      "sw_kdr": 2.0609657947686117,
+      "tnt_wins": 23,
+      "uhc_score": 11,
+      "fetched_at": 1767463119
+    },
+    "sb": {
+      "level": 2,
+      "fetched_at": 1767463119
+    }
+  },
+  "14c40cc680984e62bbbc4fa5c375f52b": {
+    "req": {
+      "ap": 2530,
+      "bw_wins": 91,
+      "bw_fkdr": 5.125,
+      "bb_score": 110,
+      "duels_wins": 28,
+      "duels_wlr": 1.8666666666666667,
+      "sw_wins": 15,
+      "sw_kdr": 1.625,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604647
+    },
+    "sb": {
+      "level": 32,
+      "fetched_at": 1769604647
+    }
+  },
+  "58cc9b2d5638448f95d46a6d8aa5be82": {
+    "req": {
+      "ap": 4680,
+      "bw_wins": 6139,
+      "bw_fkdr": 4.076962809917355,
+      "bb_score": 660,
+      "duels_wins": 23005,
+      "duels_wlr": 1.2775587271616593,
+      "sw_wins": 103,
+      "sw_kdr": 0.966,
+      "tnt_wins": 5,
+      "uhc_score": 0,
+      "fetched_at": 1769604613
+    },
+    "sb": {
+      "level": 2,
+      "fetched_at": 1769604613
+    }
+  },
+  "c00361e1d6ec4977829eb8b29b401b76": {
+    "req": {
+      "ap": 3605,
+      "bw_wins": 125,
+      "bw_fkdr": 1.7020725388601037,
+      "bb_score": 1350,
+      "duels_wins": 338,
+      "duels_wlr": 1.7789473684210526,
+      "sw_wins": 1,
+      "sw_kdr": 1.625,
+      "tnt_wins": 6,
+      "uhc_score": 0,
+      "fetched_at": 1769604613
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604614
+    }
+  },
+  "714fc93b07cb496d9c1c272000613f8e": {
+    "req": {
+      "ap": 1910,
+      "bw_wins": 3684,
+      "bw_fkdr": 4.791450777202073,
+      "bb_score": 0,
+      "duels_wins": 204,
+      "duels_wlr": 0.5498652291105122,
+      "sw_wins": 0,
+      "sw_kdr": 0.35714285714285715,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1767463134
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767463135
+    }
+  },
+  "d029c86503c5464b95523605dafedbad": {
+    "req": {
+      "ap": 6510,
+      "bw_wins": 14678,
+      "bw_fkdr": 5.740223976500826,
+      "bb_score": 975,
+      "duels_wins": 2955,
+      "duels_wlr": 1.4886649874055415,
+      "sw_wins": 906,
+      "sw_kdr": 0.5552785352551617,
+      "tnt_wins": 6,
+      "uhc_score": 29,
+      "fetched_at": 1767805094
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767805096
+    }
+  },
+  "59e2e44ae2834edb9fa83474e6613b1b": {
+    "req": {
+      "ap": 9010,
+      "bw_wins": 4216,
+      "bw_fkdr": 6.586896168795114,
+      "bb_score": 9035,
+      "duels_wins": 1107,
+      "duels_wlr": 1.5679886685552409,
+      "sw_wins": 117,
+      "sw_kdr": 1.0140318054256314,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769187455
+    },
+    "sb": {
+      "level": 81,
+      "fetched_at": 1769187455
+    }
+  },
+  "f90baaa86abd45a8b2824a085690d854": {
+    "req": {
+      "ap": 6160,
+      "bw_wins": 3734,
+      "bw_fkdr": 7.566557377049181,
+      "bb_score": 4270,
+      "duels_wins": 823,
+      "duels_wlr": 1.0592020592020592,
+      "sw_wins": 329,
+      "sw_kdr": 1.2353551062726802,
+      "tnt_wins": 13,
+      "uhc_score": 0,
+      "fetched_at": 1769604627
+    },
+    "sb": {
+      "level": 1,
+      "fetched_at": 1769604627
+    }
+  },
+  "d1e6daaf597341f9a4f31f360407ff0a": {
+    "req": {
+      "ap": 3015,
+      "bw_wins": 2747,
+      "bw_fkdr": 13.76590330788804,
+      "bb_score": 855,
+      "duels_wins": 1087,
+      "duels_wlr": 3.882142857142857,
+      "sw_wins": 219,
+      "sw_kdr": 2.241706161137441,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604629
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604629
+    }
+  },
+  "3d70edfbc66a414ba288a4ffadb3d7c2": {
+    "req": {
+      "ap": 10105,
+      "bw_wins": 3177,
+      "bw_fkdr": 6.6756368855400074,
+      "bb_score": 1475,
+      "duels_wins": 17415,
+      "duels_wlr": 1.8250890798574722,
+      "sw_wins": 375,
+      "sw_kdr": 1.3599709407918634,
+      "tnt_wins": 22,
+      "uhc_score": 15,
+      "fetched_at": 1769604625
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604626
+    }
+  },
+  "2a79546091884c76aa3a0d7c127f7a31": {
+    "req": {
+      "ap": 2955,
+      "bw_wins": 6094,
+      "bw_fkdr": 16.782312925170068,
+      "bb_score": 1290,
+      "duels_wins": 47,
+      "duels_wlr": 1.0444444444444445,
+      "sw_wins": 105,
+      "sw_kdr": 1.1026490066225165,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1769604643
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604643
+    }
+  },
+  "a0b2692cc9ce42e28c9f6d82733d8ea6": {
+    "req": {
+      "ap": 3735,
+      "bw_wins": 316,
+      "bw_fkdr": 1.1927536231884057,
+      "bb_score": 0,
+      "duels_wins": 156,
+      "duels_wlr": 0.7155963302752294,
+      "sw_wins": 3,
+      "sw_kdr": 0.4307692307692308,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604605
+    },
+    "sb": {
+      "level": 220,
+      "fetched_at": 1769604605
+    }
+  },
+  "063888c2d45347d08537142c2209ad09": {
+    "req": {
+      "ap": 3325,
+      "bw_wins": 1511,
+      "bw_fkdr": 19.592307692307692,
+      "bb_score": 190,
+      "duels_wins": 201,
+      "duels_wlr": 1.8611111111111112,
+      "sw_wins": 388,
+      "sw_kdr": 2.9107142857142856,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1767805099
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767805100
+    }
+  },
+  "bafd6943c6a84e448eee365587cbfbfb": {
+    "req": {
+      "ap": 6700,
+      "bw_wins": 18658,
+      "bw_fkdr": 34.360364926507856,
+      "bb_score": 1025,
+      "duels_wins": 5132,
+      "duels_wlr": 3.8849356548069642,
+      "sw_wins": 884,
+      "sw_kdr": 1.4842738205365402,
+      "tnt_wins": 31,
+      "uhc_score": 2,
+      "fetched_at": 1769604649
+    },
+    "sb": {
+      "level": 132,
+      "fetched_at": 1769604649
+    }
+  },
+  "f09b30ea1b184547ae14eb9aab3216ab": {
+    "req": {
+      "ap": 2830,
+      "bw_wins": 2325,
+      "bw_fkdr": 6.533444816053512,
+      "bb_score": 1725,
+      "duels_wins": 3128,
+      "duels_wlr": 2.120677966101695,
+      "sw_wins": 125,
+      "sw_kdr": 1.1607629427792916,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1767805104
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1767805104
+    }
+  },
+  "5567e04703d649b4b35edd2500378cb9": {
+    "req": {
+      "ap": 19765,
+      "bw_wins": 12136,
+      "bw_fkdr": 46.89359391965255,
+      "bb_score": 1885,
+      "duels_wins": 4449,
+      "duels_wlr": 16.539033457249072,
+      "sw_wins": 264,
+      "sw_kdr": 2.548780487804878,
+      "tnt_wins": 131,
+      "uhc_score": 22,
+      "fetched_at": 1769604584
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604585
+    }
+  },
+  "86c7568cf0d64b3da4ab79d05af576d8": {
+    "req": {
+      "ap": 11945,
+      "bw_wins": 15717,
+      "bw_fkdr": 8.150879820292026,
+      "bb_score": 2505,
+      "duels_wins": 6828,
+      "duels_wlr": 2.1491973559962227,
+      "sw_wins": 3589,
+      "sw_kdr": 1.9390424289606851,
+      "tnt_wins": 572,
+      "uhc_score": 31,
+      "fetched_at": 1768078271
+    },
+    "sb": {
+      "level": 190,
+      "fetched_at": 1768078272
+    }
+  },
+  "b9b54ea5e0b64d3280bd644cdf30663e": {
+    "req": {
+      "ap": 3045,
+      "bw_wins": 4057,
+      "bw_fkdr": 15.310093652445369,
+      "bb_score": 1080,
+      "duels_wins": 103,
+      "duels_wlr": 0.9196428571428571,
+      "sw_wins": 62,
+      "sw_kdr": 2.0089285714285716,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1769604632
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604632
+    }
+  },
+  "20deda2a678d4ef8831a3f103b818129": {
+    "req": {
+      "ap": 2655,
+      "bw_wins": 39,
+      "bw_fkdr": 3.1012658227848102,
+      "bb_score": 25,
+      "duels_wins": 0,
+      "duels_wlr": 0.0,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604622
+    },
+    "sb": {
+      "level": 220,
+      "fetched_at": 1769604623
+    }
+  },
+  "0af29a9f427245b793a5246a5f6def70": {
+    "req": {
+      "ap": 8850,
+      "bw_wins": 10715,
+      "bw_fkdr": 5.401238701037831,
+      "bb_score": 730,
+      "duels_wins": 5150,
+      "duels_wlr": 1.810829817158931,
+      "sw_wins": 818,
+      "sw_kdr": 1.3300129127467257,
+      "tnt_wins": 182,
+      "uhc_score": 0,
+      "fetched_at": 1769604627
+    },
+    "sb": {
+      "level": 257,
+      "fetched_at": 1769604627
+    }
+  },
+  "981cccc71bbd4b38b5d7c8414ff8fbf7": {
+    "req": {
+      "ap": 12620,
+      "bw_wins": 2876,
+      "bw_fkdr": 1.718296224588577,
+      "bb_score": 24380,
+      "duels_wins": 972,
+      "duels_wlr": 0.8209459459459459,
+      "sw_wins": 243,
+      "sw_kdr": 0.9650858306662787,
+      "tnt_wins": 28,
+      "uhc_score": 2,
+      "fetched_at": 1768078307
+    },
+    "sb": {
+      "level": 350,
+      "fetched_at": 1768078307
+    }
+  },
+  "a7ac8fbd987f4caa916b90d844155ce3": {
+    "req": {
+      "ap": 1605,
+      "bw_wins": 0,
+      "bw_fkdr": 0.0,
+      "bb_score": 0,
+      "duels_wins": 0,
+      "duels_wlr": 0.0,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769187456
+    },
+    "sb": {
+      "level": 187,
+      "fetched_at": 1769187456
+    }
+  },
+  "e0fd1f17dce543b4b50eaea657fecf9f": {
+    "req": {
+      "ap": 14310,
+      "bw_wins": 1933,
+      "bw_fkdr": 3.566992014196983,
+      "bb_score": 1730,
+      "duels_wins": 3595,
+      "duels_wlr": 1.8426447975397233,
+      "sw_wins": 190,
+      "sw_kdr": 0.6583153347732181,
+      "tnt_wins": 10,
+      "uhc_score": 2,
+      "fetched_at": 1769187465
+    },
+    "sb": {
+      "level": 125,
+      "fetched_at": 1769187465
+    }
+  },
+  "d1f7f38dfff948f7bf783c3085258f59": {
+    "req": {
+      "ap": 11480,
+      "bw_wins": 12590,
+      "bw_fkdr": 16.139659367396593,
+      "bb_score": 2625,
+      "duels_wins": 13365,
+      "duels_wlr": 1.8614206128133706,
+      "sw_wins": 7167,
+      "sw_kdr": 2.1848980588450737,
+      "tnt_wins": 19,
+      "uhc_score": 0,
+      "fetched_at": 1769604647
+    },
+    "sb": {
+      "level": 10,
+      "fetched_at": 1769604648
+    }
+  },
+  "7ce8c1a687e945e38c6d8630aacf9c0a": {
+    "req": {
+      "ap": 1080,
+      "bw_wins": 309,
+      "bw_fkdr": 10.407692307692308,
+      "bb_score": 45,
+      "duels_wins": 2,
+      "duels_wlr": 0.6666666666666666,
+      "sw_wins": 0,
+      "sw_kdr": 1.3333333333333333,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604612
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604613
+    }
+  },
+  "6c607aa2e7d94613a72ea172ccc24bbe": {
+    "req": {
+      "ap": 3340,
+      "bw_wins": 5432,
+      "bw_fkdr": 3.202937405291992,
+      "bb_score": 280,
+      "duels_wins": 20538,
+      "duels_wlr": 3.1782729805013927,
+      "sw_wins": 79,
+      "sw_kdr": 1.107904642409034,
+      "tnt_wins": 4,
+      "uhc_score": 0,
+      "fetched_at": 1769604600
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604600
+    }
+  },
+  "6819061718b64747bb0c99b6692a6af0": {
+    "req": {
+      "ap": 3250,
+      "bw_wins": 2968,
+      "bw_fkdr": 5.79700053561864,
+      "bb_score": 2160,
+      "duels_wins": 2108,
+      "duels_wlr": 3.5668358714043995,
+      "sw_wins": 7,
+      "sw_kdr": 0.7936507936507936,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604634
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604635
+    }
+  },
+  "801203acf1e740cb91c57c920321bffa": {
+    "req": {
+      "ap": 5455,
+      "bw_wins": 4983,
+      "bw_fkdr": 6.662731006160164,
+      "bb_score": 35,
+      "duels_wins": 3437,
+      "duels_wlr": 1.3520849724626278,
+      "sw_wins": 63,
+      "sw_kdr": 1.0333333333333334,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1769187480
+    },
+    "sb": {
+      "level": 53,
+      "fetched_at": 1769187481
+    }
+  },
+  "7353fa848a3e4ee384581dd6727bc92d": {
+    "req": {
+      "ap": 5280,
+      "bw_wins": 421,
+      "bw_fkdr": 2.627019089574156,
+      "bb_score": 580,
+      "duels_wins": 4505,
+      "duels_wlr": 2.422043010752688,
+      "sw_wins": 9569,
+      "sw_kdr": 2.104932182490752,
+      "tnt_wins": 1,
+      "uhc_score": 9,
+      "fetched_at": 1769604642
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604642
+    }
+  },
+  "12f9602c071b4268af194620b961e547": {
+    "req": {
+      "ap": 3135,
+      "bw_wins": 2508,
+      "bw_fkdr": 19.372365339578455,
+      "bb_score": 15,
+      "duels_wins": 533,
+      "duels_wlr": 1.7249190938511327,
+      "sw_wins": 150,
+      "sw_kdr": 1.830827067669173,
+      "tnt_wins": 5,
+      "uhc_score": 19,
+      "fetched_at": 1769604640
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604640
+    }
+  },
+  "8f3ffa62eea04f9aaddf3d54256566f3": {
+    "req": {
+      "ap": 10080,
+      "bw_wins": 372,
+      "bw_fkdr": 47.282051282051285,
+      "bb_score": 375,
+      "duels_wins": 1818,
+      "duels_wlr": 26.735294117647058,
+      "sw_wins": 2163,
+      "sw_kdr": 14.69434628975265,
+      "tnt_wins": 5,
+      "uhc_score": 867,
+      "fetched_at": 1769187490
+    },
+    "sb": {
+      "level": 92,
+      "fetched_at": 1769187491
+    }
+  },
+  "630dd6d0460a4baeb177d48c10a93641": {
+    "req": {
+      "ap": 6825,
+      "bw_wins": 3938,
+      "bw_fkdr": 5.267483208218096,
+      "bb_score": 70,
+      "duels_wins": 1392,
+      "duels_wlr": 1.5518394648829432,
+      "sw_wins": 642,
+      "sw_kdr": 1.1136079900124844,
+      "tnt_wins": 2,
+      "uhc_score": 0,
+      "fetched_at": 1769604653
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604653
+    }
+  },
+  "6aa399dbed7340e5988823010594af97": {
+    "req": {
+      "ap": 5710,
+      "bw_wins": 1185,
+      "bw_fkdr": 20.744769874476987,
+      "bb_score": 270,
+      "duels_wins": 1709,
+      "duels_wlr": 3.411177644710579,
+      "sw_wins": 201,
+      "sw_kdr": 2.0663841807909606,
+      "tnt_wins": 3,
+      "uhc_score": 0,
+      "fetched_at": 1769604600
+    },
+    "sb": {
+      "level": 188,
+      "fetched_at": 1769604601
+    }
+  },
+  "3b6782efa6d244b4b8631c52c4c6b32b": {
+    "req": {
+      "ap": 4735,
+      "bw_wins": 4966,
+      "bw_fkdr": 22.81678486997636,
+      "bb_score": 735,
+      "duels_wins": 1743,
+      "duels_wlr": 5.37962962962963,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 23,
+      "uhc_score": 0,
+      "fetched_at": 1769604604
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604604
+    }
+  },
+  "83f0a565abd749ab9608bccfe4d91b2e": {
+    "req": {
+      "ap": 1630,
+      "bw_wins": 1,
+      "bw_fkdr": 1.0,
+      "bb_score": 0,
+      "duels_wins": 0,
+      "duels_wlr": 0.0,
+      "sw_wins": 0,
+      "sw_kdr": 0.0,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604609
+    },
+    "sb": {
+      "level": 216,
+      "fetched_at": 1769604610
+    }
+  },
+  "523b48f89f6440cc8e5edd4c9005d2b9": {
+    "req": {
+      "ap": 2730,
+      "bw_wins": 2052,
+      "bw_fkdr": 3.2786703601108034,
+      "bb_score": 215,
+      "duels_wins": 53,
+      "duels_wlr": 0.33125,
+      "sw_wins": 0,
+      "sw_kdr": 0.08928571428571429,
+      "tnt_wins": 1,
+      "uhc_score": 0,
+      "fetched_at": 1769604612
+    },
+    "sb": {
+      "level": 0,
+      "fetched_at": 1769604612
+    }
+  },
+  "abb7474afc0b49e9bb954c28cd0741bd": {
+    "req": {
+      "ap": 4565,
+      "bw_wins": 293,
+      "bw_fkdr": 0.998501872659176,
+      "bb_score": 1170,
+      "duels_wins": 189,
+      "duels_wlr": 0.7590361445783133,
+      "sw_wins": 18,
+      "sw_kdr": 0.3,
+      "tnt_wins": 0,
+      "uhc_score": 0,
+      "fetched_at": 1769604631
+    },
+    "sb": {
+      "level": 233,
+      "fetched_at": 1769604631
+    }
+  },
+  "2e1f1bc06c364368bb7ca34d9ee90160": {
+    "req": {
+      "ap": 6255,
+      "bw_wins": 14340,
+      "bw_fkdr": 14.112472963229992,
+      "bb_score": 505,
+      "duels_wins": 6471,
+      "duels_wlr": 3.2178020885131775,
+      "sw_wins": 292,
+      "sw_kdr": 1.617252931323283,
+      "tnt_wins": 2,
+      "uhc_score": 1,
+      "fetched_at": 1769604645
+    },
+    "sb": {
+      "level": 48,
+      "fetched_at": 1769604645
+    }
+  },
+  "a36ad69c7af4455c87304e7c4eb207a5": {
+    "req": {
+      "ap": 6520,
+      "bw_wins": 7088,
+      "bw_fkdr": 60.50177935943061,
+      "bb_score": 1805,
+      "duels_wins": 6707,
+      "duels_wlr": 11.122719734660032,
+      "sw_wins": 915,
+      "sw_kdr": 4.721033868092691,
+      "tnt_wins": 31,
+      "uhc_score": 43,
+      "fetched_at": 1769604648
+    },
+    "sb": {
+      "level": 22,
+      "fetched_at": 1769604648
+    }
+  }
+}

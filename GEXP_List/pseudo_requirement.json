@@ -1,0 +1,30 @@
+{
+  "cawli": [
+    "LB",
+    "TKR"
+  ],
+  "defs": {
+    "LB": {
+      "short": "LB",
+      "desc": ""
+    },
+    "TKR": {
+      "short": "TK",
+      "desc": "Turbo Kart Racers Player"
+    },
+    "DS": {
+      "short": "DS",
+      "desc": "Disasters Leaderboards"
+    }
+  },
+  "members": {
+    "4675184e05a94d09ad616cb6cf0687ec": [
+      "LB",
+      "TKR"
+    ],
+    "2f24d5a65e2e45adad027e3c5767f78a": [
+      "LB",
+      "DS"
+    ]
+  }
+}
